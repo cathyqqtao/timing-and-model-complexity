@@ -1,0 +1,561 @@
+#NEXUS
+
+Begin Taxa;
+	Dimensions ntax=274;
+	TaxLabels
+		Sus_scrofa
+		Cavia_porcellus
+		Hippopotamus_amphibius
+		Ornithorhynchus_anatinus
+		Loxodonta_africana
+		Balaenoptera_physalus
+		Phoca_vitulina
+		Balaenoptera_musculus
+		Halichoerus_grypus
+		Didelphis_virginiana
+		Equus_caballus
+		Pan_troglodytes
+		Pan_paniscus
+		Gorilla_gorilla
+		Pongo_pygmaeus
+		Rattus_norvegicus
+		Felis_catus
+		Rhinoceros_unicornis
+		Equus_asinus
+		Macropus_robustus
+		Ceratotherium_simum
+		Dasypus_novemcinctus
+		Glis_glis
+		Oryctolagus_cuniculus
+		Ovis_aries
+		Papio_hamadryas
+		Canis_lupus
+		Artibeus_jamaicensis
+		Orycteropus_afer
+		Erinaceus_europaeus
+		Hylobates_lar
+		Pongo_abelii
+		Sciurus_vulgaris
+		Talpa_europaea
+		Physeter_catodon
+		Vicugna_pacos
+		Tupaia_belangeri
+		Pteropus_dasymallus
+		Pteropus_scapulatus
+		Chalinolobus_tuberculatus
+		Echinops_telfairi
+		Thryonomys_swinderianus
+		Isoodon_macrourus
+		Cebus_albifrons
+		Macaca_sylvanus
+		Nycticebus_coucang
+		Echinosorex_gymnura
+		Tarsius_bancanus
+		Ochotona_collaris
+		Trichosurus_vulpecula
+		Episoriculus_fumidus
+		Microtus_kikuchii
+		Dugong_dugon
+		Tachyglossus_aculeatus
+		Vombatus_ursinus
+		Ursus_americanus
+		Ursus_arctos
+		Ursus_maritimus
+		Arctocephalus_forsteri
+		Lemur_catta
+		Macroscelides_proboscideus
+		Manis_tetradactyla
+		Lepus_europaeus
+		Odobenus_rosmarus
+		Eumetopias_jubatus
+		Galeopterus_variegatus
+		Tamandua_tetradactyla
+		Muntiacus_reevesi
+		Muntiacus_muntjak
+		Muntiacus_crinifrons
+		Procavia_capensis
+		Chrysochloris_asiatica
+		Elephantulus_sp
+		Hemiechinus_auritus
+		Urotrichus_talpoides
+		Mogera_wogura
+		Capra_hircus
+		Mus_musculus
+		Elephas_maximus
+		Acinonyx_jubatus
+		Balaena_mysticetus
+		Caperea_marginata
+		Eschrichtius_robustus
+		Balaenoptera_acutorostrata
+		Kogia_breviceps
+		Hyperoodon_ampullatus
+		Berardius_bairdii
+		Platanista_minor
+		Inia_geoffrensis
+		Pontoporia_blainvillei
+		Lagenorhynchus_albirostris
+		Monodon_monoceros
+		Phocoena_phocoena
+		Jaculus_jaculus
+		Nannospalax_ehrenbergi
+		Ochotona_princeps
+		Rhinolophus_monoceros
+		Rhinolophus_pumilus
+		Sorex_unguiculatus
+		Pipistrellus_abramus
+		Thylamys_elegans
+		Dromiciops_gliroides
+		Caenolestes_fuliginosus
+		Rhyncholestes_raphanurus
+		Macaca_mulatta
+		Bos_indicus
+		Bubalus_bubalis
+		Monodelphis_domestica
+		Zaglossus_bruijni
+		Bos_grunniens
+		Metachirus_nudicaudatus
+		Sminthopsis_douglasi
+		Tarsipes_rostratus
+		Pseudocheirus_peregrinus
+		Macrotis_lagotis
+		Perameles_gunnii
+		Notoryctes_typhlops
+		Phascogale_tapoatafa
+		Potorous_tridactylus
+		Herpestes_javanicus
+		Bos_taurus
+		Crocidura_russula
+		Trachypithecus_obscurus
+		Colobus_guereza
+		Bradypus_tridactylus
+		Choloepus_didactylus
+		Mystacina_tuberculata
+		Balaenoptera_bonaerensis
+		Megaptera_novaeangliae
+		Balaenoptera_brydei
+		Balaenoptera_borealis
+		Eubalaena_australis
+		Eubalaena_japonica
+		Cervus_nippon
+		Chlorocebus_aethiops
+		Rousettus_aegyptiacus
+		Pantholops_hodgsonii
+		Lipotes_vexillifer
+		Dasyurus_hallucatus
+		Sminthopsis_crassicaudata
+		Echymipera_rufescens
+		Rangifer_tarandus
+		Cervus_elaphus
+		Cricetulus_griseus
+		Balaenoptera_omurai
+		Balaenoptera_edeni
+		Microtus_levis
+		Chlorocebus_sabaeus
+		Canis_latrans
+		Phascolarctos_cinereus
+		Dactylopsila_trivirgata
+		Petaurus_breviceps
+		Lagorchestes_hirsutus
+		Phalanger_vestitus
+		Distoechurus_pennatus
+		Galemys_pyrenaicus
+		Semnopithecus_entellus
+		Nasalis_larvatus
+		Presbytis_melalophos
+		Rhinopithecus_roxellana
+		Piliocolobus_badius
+		Pygathrix_nemaeus
+		Rusa_unicolor
+		Callorhinus_ursinus
+		Zalophus_californianus
+		Arctocephalus_pusillus
+		Phocarctos_hookeri
+		Neophoca_cinerea
+		Arctocephalus_townsendi
+		Monachus_schauinslandi
+		Mirounga_leonina
+		Lobodon_carcinophaga
+		Leptonychotes_weddellii
+		Hydrurga_leptonyx
+		Erignathus_barbatus
+		Cystophora_cristata
+		Phoca_fasciata
+		Phoca_groenlandica
+		Phoca_largha
+		Pusa_caspica
+		Pusa_sibirica
+		Pusa_hispida
+		Vulpes_vulpes
+		Lagostrophus_fasciatus
+		Neofelis_nebulosa
+		Elaphodus_cephalophus
+		Ursus_thibetanus
+		Phacochoerus_africanus
+		Anomalurus_sp
+		Procyon_lotor
+		Ailuropoda_melanoleuca
+		Ammotragus_lervia
+		Camelus_bactrianus
+		Martes_melampus
+		Gulo_gulo
+		Ailurus_fulgens
+		Enhydra_lutris
+		Chlorocebus_pygerythrus
+		Chlorocebus_tantalus
+		Camelus_dromedarius
+		Helarctos_malayanus
+		Tremarctos_ornatus
+		Melursus_ursinus
+		Hylomys_suillus
+		Daubentonia_madagascariensis
+		Eulemur_mongoz
+		Dendrohyrax_dorsalis
+		Trichechus_manatus
+		Eremitalpa_granti
+		Spilogale_putorius
+		Uncia_uncia
+		Capricornis_swinhoei
+		Panthera_pardus
+		Panthera_tigris
+		Mus_terricolor
+		Ochotona_curzoniae
+		Propithecus_coquereli
+		Meles_meles
+		Rhinolophus_formosae
+		Lutra_lutra
+		Macaca_thibetana
+		Martes_zibellina
+		Rattus_tanezumi
+		Hydropotes_inermis
+		Lama_guanicoe
+		Thylacinus_cynocephalus
+		Myrmecobius_fasciatus
+		Stenella_attenuata
+		Stenella_coeruleoalba
+		Sousa_chinensis
+		Tursiops_aduncus
+		Tursiops_truncatus
+		Delphinus_capensis
+		Grampus_griseus
+		Capricornis_crispus
+		Antilope_cervicapra
+		Giraffa_camelopardalis
+		Lama_glama
+		Pecari_tajacu
+		Martes_flavigula
+		Bison_bison
+		Rattus_rattus
+		Rattus_exulans
+		Rattus_praetor
+		Macaca_fascicularis
+		Diceros_bicornis
+		Rhinoceros_sondaicus
+		Dicerorhinus_sumatrensis
+		Moschus_berezovskii
+		Galago_senegalensis
+		Otolemur_crassicaudatus
+		Loris_tardigradus
+		Perodicticus_potto
+		Eulemur_fulvus
+		Eulemur_macaco
+		Varecia_variegata
+		Tarsius_syrichta
+		Saimiri_sciureus
+		Homo_sapiens
+		Tscherskia_triton
+		Budorcas_taxicolor
+		Mesocricetus_auratus
+		Cuon_alpinus
+		Vicugna_vicugna
+		Proedromys_sp
+		Eothenomys_chinensis
+		Nyctereutes_procyonoides
+		Naemorhedus_caudatus
+		Moschus_moschiferus
+		Hylobates_agilis
+		Bison_bonasus
+		Hylobates_pileatus
+		Symphalangus_syndactylus
+		Nomascus_siki
+		;
+End;
+
+Begin Trees;
+	Translate
+		1 Sus_scrofa,
+		2 Cavia_porcellus,
+		3 Hippopotamus_amphibius,
+		4 Ornithorhynchus_anatinus,
+		5 Loxodonta_africana,
+		6 Balaenoptera_physalus,
+		7 Phoca_vitulina,
+		8 Balaenoptera_musculus,
+		9 Halichoerus_grypus,
+		10 Didelphis_virginiana,
+		11 Equus_caballus,
+		12 Pan_troglodytes,
+		13 Pan_paniscus,
+		14 Gorilla_gorilla,
+		15 Pongo_pygmaeus,
+		16 Rattus_norvegicus,
+		17 Felis_catus,
+		18 Rhinoceros_unicornis,
+		19 Equus_asinus,
+		20 Macropus_robustus,
+		21 Ceratotherium_simum,
+		22 Dasypus_novemcinctus,
+		23 Glis_glis,
+		24 Oryctolagus_cuniculus,
+		25 Ovis_aries,
+		26 Papio_hamadryas,
+		27 Canis_lupus,
+		28 Artibeus_jamaicensis,
+		29 Orycteropus_afer,
+		30 Erinaceus_europaeus,
+		31 Hylobates_lar,
+		32 Pongo_abelii,
+		33 Sciurus_vulgaris,
+		34 Talpa_europaea,
+		35 Physeter_catodon,
+		36 Vicugna_pacos,
+		37 Tupaia_belangeri,
+		38 Pteropus_dasymallus,
+		39 Pteropus_scapulatus,
+		40 Chalinolobus_tuberculatus,
+		41 Echinops_telfairi,
+		42 Thryonomys_swinderianus,
+		43 Isoodon_macrourus,
+		44 Cebus_albifrons,
+		45 Macaca_sylvanus,
+		46 Nycticebus_coucang,
+		47 Echinosorex_gymnura,
+		48 Tarsius_bancanus,
+		49 Ochotona_collaris,
+		50 Trichosurus_vulpecula,
+		51 Episoriculus_fumidus,
+		52 Microtus_kikuchii,
+		53 Dugong_dugon,
+		54 Tachyglossus_aculeatus,
+		55 Vombatus_ursinus,
+		56 Ursus_americanus,
+		57 Ursus_arctos,
+		58 Ursus_maritimus,
+		59 Arctocephalus_forsteri,
+		60 Lemur_catta,
+		61 Macroscelides_proboscideus,
+		62 Manis_tetradactyla,
+		63 Lepus_europaeus,
+		64 Odobenus_rosmarus,
+		65 Eumetopias_jubatus,
+		66 Galeopterus_variegatus,
+		67 Tamandua_tetradactyla,
+		68 Muntiacus_reevesi,
+		69 Muntiacus_muntjak,
+		70 Muntiacus_crinifrons,
+		71 Procavia_capensis,
+		72 Chrysochloris_asiatica,
+		73 Elephantulus_sp,
+		74 Hemiechinus_auritus,
+		75 Urotrichus_talpoides,
+		76 Mogera_wogura,
+		77 Capra_hircus,
+		78 Mus_musculus,
+		79 Elephas_maximus,
+		80 Acinonyx_jubatus,
+		81 Balaena_mysticetus,
+		82 Caperea_marginata,
+		83 Eschrichtius_robustus,
+		84 Balaenoptera_acutorostrata,
+		85 Kogia_breviceps,
+		86 Hyperoodon_ampullatus,
+		87 Berardius_bairdii,
+		88 Platanista_minor,
+		89 Inia_geoffrensis,
+		90 Pontoporia_blainvillei,
+		91 Lagenorhynchus_albirostris,
+		92 Monodon_monoceros,
+		93 Phocoena_phocoena,
+		94 Jaculus_jaculus,
+		95 Nannospalax_ehrenbergi,
+		96 Ochotona_princeps,
+		97 Rhinolophus_monoceros,
+		98 Rhinolophus_pumilus,
+		99 Sorex_unguiculatus,
+		100 Pipistrellus_abramus,
+		101 Thylamys_elegans,
+		102 Dromiciops_gliroides,
+		103 Caenolestes_fuliginosus,
+		104 Rhyncholestes_raphanurus,
+		105 Macaca_mulatta,
+		106 Bos_indicus,
+		107 Bubalus_bubalis,
+		108 Monodelphis_domestica,
+		109 Zaglossus_bruijni,
+		110 Bos_grunniens,
+		111 Metachirus_nudicaudatus,
+		112 Sminthopsis_douglasi,
+		113 Tarsipes_rostratus,
+		114 Pseudocheirus_peregrinus,
+		115 Macrotis_lagotis,
+		116 Perameles_gunnii,
+		117 Notoryctes_typhlops,
+		118 Phascogale_tapoatafa,
+		119 Potorous_tridactylus,
+		120 Herpestes_javanicus,
+		121 Bos_taurus,
+		122 Crocidura_russula,
+		123 Trachypithecus_obscurus,
+		124 Colobus_guereza,
+		125 Bradypus_tridactylus,
+		126 Choloepus_didactylus,
+		127 Mystacina_tuberculata,
+		128 Balaenoptera_bonaerensis,
+		129 Megaptera_novaeangliae,
+		130 Balaenoptera_brydei,
+		131 Balaenoptera_borealis,
+		132 Eubalaena_australis,
+		133 Eubalaena_japonica,
+		134 Cervus_nippon,
+		135 Chlorocebus_aethiops,
+		136 Rousettus_aegyptiacus,
+		137 Pantholops_hodgsonii,
+		138 Lipotes_vexillifer,
+		139 Dasyurus_hallucatus,
+		140 Sminthopsis_crassicaudata,
+		141 Echymipera_rufescens,
+		142 Rangifer_tarandus,
+		143 Cervus_elaphus,
+		144 Cricetulus_griseus,
+		145 Balaenoptera_omurai,
+		146 Balaenoptera_edeni,
+		147 Microtus_levis,
+		148 Chlorocebus_sabaeus,
+		149 Canis_latrans,
+		150 Phascolarctos_cinereus,
+		151 Dactylopsila_trivirgata,
+		152 Petaurus_breviceps,
+		153 Lagorchestes_hirsutus,
+		154 Phalanger_vestitus,
+		155 Distoechurus_pennatus,
+		156 Galemys_pyrenaicus,
+		157 Semnopithecus_entellus,
+		158 Nasalis_larvatus,
+		159 Presbytis_melalophos,
+		160 Rhinopithecus_roxellana,
+		161 Piliocolobus_badius,
+		162 Pygathrix_nemaeus,
+		163 Rusa_unicolor,
+		164 Callorhinus_ursinus,
+		165 Zalophus_californianus,
+		166 Arctocephalus_pusillus,
+		167 Phocarctos_hookeri,
+		168 Neophoca_cinerea,
+		169 Arctocephalus_townsendi,
+		170 Monachus_schauinslandi,
+		171 Mirounga_leonina,
+		172 Lobodon_carcinophaga,
+		173 Leptonychotes_weddellii,
+		174 Hydrurga_leptonyx,
+		175 Erignathus_barbatus,
+		176 Cystophora_cristata,
+		177 Phoca_fasciata,
+		178 Phoca_groenlandica,
+		179 Phoca_largha,
+		180 Pusa_caspica,
+		181 Pusa_sibirica,
+		182 Pusa_hispida,
+		183 Vulpes_vulpes,
+		184 Lagostrophus_fasciatus,
+		185 Neofelis_nebulosa,
+		186 Elaphodus_cephalophus,
+		187 Ursus_thibetanus,
+		188 Phacochoerus_africanus,
+		189 Anomalurus_sp,
+		190 Procyon_lotor,
+		191 Ailuropoda_melanoleuca,
+		192 Ammotragus_lervia,
+		193 Camelus_bactrianus,
+		194 Martes_melampus,
+		195 Gulo_gulo,
+		196 Ailurus_fulgens,
+		197 Enhydra_lutris,
+		198 Chlorocebus_pygerythrus,
+		199 Chlorocebus_tantalus,
+		200 Camelus_dromedarius,
+		201 Helarctos_malayanus,
+		202 Tremarctos_ornatus,
+		203 Melursus_ursinus,
+		204 Hylomys_suillus,
+		205 Daubentonia_madagascariensis,
+		206 Eulemur_mongoz,
+		207 Dendrohyrax_dorsalis,
+		208 Trichechus_manatus,
+		209 Eremitalpa_granti,
+		210 Spilogale_putorius,
+		211 Uncia_uncia,
+		212 Capricornis_swinhoei,
+		213 Panthera_pardus,
+		214 Panthera_tigris,
+		215 Mus_terricolor,
+		216 Ochotona_curzoniae,
+		217 Propithecus_coquereli,
+		218 Meles_meles,
+		219 Rhinolophus_formosae,
+		220 Lutra_lutra,
+		221 Macaca_thibetana,
+		222 Martes_zibellina,
+		223 Rattus_tanezumi,
+		224 Hydropotes_inermis,
+		225 Lama_guanicoe,
+		226 Thylacinus_cynocephalus,
+		227 Myrmecobius_fasciatus,
+		228 Stenella_attenuata,
+		229 Stenella_coeruleoalba,
+		230 Sousa_chinensis,
+		231 Tursiops_aduncus,
+		232 Tursiops_truncatus,
+		233 Delphinus_capensis,
+		234 Grampus_griseus,
+		235 Capricornis_crispus,
+		236 Antilope_cervicapra,
+		237 Giraffa_camelopardalis,
+		238 Lama_glama,
+		239 Pecari_tajacu,
+		240 Martes_flavigula,
+		241 Bison_bison,
+		242 Rattus_rattus,
+		243 Rattus_exulans,
+		244 Rattus_praetor,
+		245 Macaca_fascicularis,
+		246 Diceros_bicornis,
+		247 Rhinoceros_sondaicus,
+		248 Dicerorhinus_sumatrensis,
+		249 Moschus_berezovskii,
+		250 Galago_senegalensis,
+		251 Otolemur_crassicaudatus,
+		252 Loris_tardigradus,
+		253 Perodicticus_potto,
+		254 Eulemur_fulvus,
+		255 Eulemur_macaco,
+		256 Varecia_variegata,
+		257 Tarsius_syrichta,
+		258 Saimiri_sciureus,
+		259 Homo_sapiens,
+		260 Tscherskia_triton,
+		261 Budorcas_taxicolor,
+		262 Mesocricetus_auratus,
+		263 Cuon_alpinus,
+		264 Vicugna_vicugna,
+		265 Proedromys_sp,
+		266 Eothenomys_chinensis,
+		267 Nyctereutes_procyonoides,
+		268 Naemorhedus_caudatus,
+		269 Moschus_moschiferus,
+		270 Hylobates_agilis,
+		271 Bison_bonasus,
+		272 Hylobates_pileatus,
+		273 Symphalangus_syndactylus,
+		274 Nomascus_siki
+		;
+tree TREE1 = [&R] (((((((((62[&rate=1.75215348406446E+000,branch_length=2.00314696005836E-001]:1.14324856713561E-001,(((((((170[&rate=9.65146170818961E-001,branch_length=3.31200278764728E-002]:3.43160744743661E-002,(171[&rate=1.12935297022571E+000,branch_length=3.16241108428365E-002]:2.80019725246007E-002,(172[&rate=7.60457509400975E-001,branch_length=1.56945032438807E-002]:2.06382382314083E-002,(173[&rate=5.97596229496618E-001,branch_length=7.93299150559131E-003]:1.32748352717580E-002,174[&rate=1.03823043890753E+000,branch_length=1.37823380506225E-002]:1.32748352717580E-002)[&rate=7.87681785773771E-001,branch_length=5.80001839262917E-003,reltime=1.32748352717580E-002,reltime_stderr=7.54911226287202E-003,reltime_95%_CI={5.08213432956878E-003,3.46746544000271E-002},data_coverage=97%]:7.36340295965024E-003)[&rate=7.73949952522794E-001,branch_length=5.69916180660674E-003,reltime=2.06382382314083E-002,reltime_stderr=1.07141644359473E-002,reltime_95%_CI={8.44385999832593E-003,5.04433845872394E-002},data_coverage=97%]:7.36373429319241E-003)[&rate=9.34913192594727E-001,branch_length=5.90313721222380E-003,reltime=2.80019725246007E-002,reltime_stderr=1.28034971372354E-002,reltime_95%_CI={1.25065043906249E-002,6.26962131685875E-002},data_coverage=97%]:6.31410194976544E-003)[&rate=9.49909410354972E-001,branch_length=1.12246676076533E-002,reltime=3.43160744743661E-002,reltime_stderr=1.39050505485206E-002,reltime_95%_CI={1.65681043264558E-002,7.10759024766566E-002},data_coverage=96%]:1.18165663854817E-002,(175[&rate=7.48487100898383E-001,branch_length=2.93122913495888E-002]:3.91620527787403E-002,(176[&rate=6.96531120399847E-001,branch_length=1.94694523151182E-002]:2.79520207280067E-002,((177[&rate=8.49392105572853E-001,branch_length=1.28506481690102E-002]:1.51292295804226E-002,178[&rate=1.18206340107456E+000,branch_length=1.78837085734721E-002]:1.51292295804226E-002)[&rate=1.00201562919913E+000,branch_length=4.89411602244171E-003,reltime=1.51292295804226E-002,reltime_stderr=8.04299853003090E-003,reltime_95%_CI={6.08534577896915E-003,3.76139000166903E-002},data_coverage=97%]:4.88427114290960E-003,(182[&rate=5.51542759826519E-001,branch_length=4.02395776131089E-003]:7.29582192788929E-003,((180[&rate=8.93214492558217E-001,branch_length=4.90587612471656E-003]:5.49238303407488E-003,9[&rate=1.27133664500387E+000,branch_length=6.98266781961692E-003]:5.49238303407488E-003)[&rate=1.06563423191909E+000,branch_length=9.83465224439927E-004,reltime=5.49238303407488E-003,reltime_stderr=3.35018547405404E-003,reltime_95%_CI={1.99420896280176E-003,1.51269360210936E-002},data_coverage=97%]:9.22891921995426E-004,(181[&rate=6.68779627782891E-001,branch_length=4.00045695280539E-003]:5.98172669533539E-003,(179[&rate=1.28773215798572E+000,branch_length=4.68957254874227E-003]:3.64172978026558E-003,7[&rate=1.46071826046615E+000,branch_length=5.31954118971733E-003]:3.64172978026558E-003)[&rate=1.37150059342285E+000,branch_length=3.20930715762588E-003,reltime=3.64172978026558E-003,reltime_stderr=2.37356145867307E-003,reltime_95%_CI={1.25586311020094E-003,1.05602240281994E-002},data_coverage=97%]:2.33999691506981E-003)[&rate=9.57722118557017E-001,branch_length=4.15218758767758E-004,reltime=5.98172669533539E-003,reltime_stderr=3.63241924411981E-003,reltime_95%_CI={2.17932533825803E-003,1.64184087752077E-002},data_coverage=97%]:4.33548260734920E-004)[&rate=1.01023832544625E+000,branch_length=8.89562298287172E-004,reltime=6.41527495607031E-003,reltime_stderr=3.70235750030030E-003,reltime_95%_CI={2.42915736594761E-003,1.69423987671248E-002},data_coverage=97%]:8.80546971818981E-004)[&rate=7.46451360839501E-001,branch_length=9.49312864357801E-003,reltime=7.29582192788929E-003,reltime_stderr=4.18138457628322E-003,reltime_95%_CI={2.77697289257667E-003,1.91680004316069E-002},data_coverage=97%]:1.27176787954429E-002)[&rate=8.64844454221763E-001,branch_length=6.86558500077126E-003,reltime=2.00135007233322E-002,reltime_stderr=9.95699677020939E-003,reltime_95%_CI={8.43787807164953E-003,4.74693054108704E-002},data_coverage=97%]:7.93852000467449E-003)[&rate=7.76138567957218E-001,branch_length=8.70053822261088E-003,reltime=2.79520207280067E-002,reltime_stderr=1.28413980650740E-002,reltime_95%_CI={1.24447014144693E-002,6.27829818295594E-002},data_coverage=97%]:1.12100320507336E-002)[&rate=7.62187448483455E-001,branch_length=5.31289474396851E-003,reltime=3.91620527787403E-002,reltime_stderr=1.60442739549766E-002,reltime_95%_CI={1.87783776871140E-002,8.16719315906222E-002},data_coverage=97%]:6.97058808110751E-003)[&rate=8.50887201554283E-001,branch_length=1.36712568167320E-002,reltime=4.61326408598478E-002,reltime_stderr=1.77566562380822E-002,reltime_95%_CI={2.29851236644137E-002,9.25912161176958E-002},data_coverage=97%]:1.60670612882169E-002,(64[&rate=1.53916952532023E+000,branch_length=7.36771758407557E-002]:4.78681357892833E-002,(164[&rate=1.02740395165189E+000,branch_length=2.83135094249736E-002]:2.75583030213680E-002,((65[&rate=1.48609397392249E+000,branch_length=2.01193719861619E-002]:1.35384251192794E-002,165[&rate=1.04863267455568E+000,branch_length=1.41968349421017E-002]:1.35384251192794E-002)[&rate=1.24834558457000E+000,branch_length=3.65450542193043E-003,reltime=1.35384251192794E-002,reltime_stderr=7.04121936389996E-003,reltime_95%_CI={5.53184458123929E-003,3.31334244877271E-002},data_coverage=97%]:2.92747895062186E-003,(166[&rate=1.36012228596987E+000,branch_length=1.80655658578239E-002]:1.32823100129867E-002,((169[&rate=1.55845823361433E+000,branch_length=1.31921383851659E-002]:8.46486489058555E-003,59[&rate=1.37190782031518E+000,branch_length=1.16130143413057E-002]:8.46486489058555E-003)[&rate=1.46221101019315E+000,branch_length=5.03943462809738E-003,reltime=8.46486489058555E-003,reltime_stderr=5.02610912707282E-003,reltime_95%_CI={3.13726576350598E-003,2.28396135416314E-002},data_coverage=97%]:3.44644828480103E-003,(168[&rate=1.92269366192572E+000,branch_length=2.16352055546995E-002]:1.12525494742778E-002,167[&rate=1.81007800048703E+000,branch_length=2.03679922527821E-002]:1.12525494742778E-002)[&rate=1.86553624974900E+000,branch_length=1.22894756443726E-003,reltime=1.12525494742778E-002,reltime_stderr=6.32903787680476E-003,reltime_95%_CI={4.34327273607385E-003,2.91531012131485E-002},data_coverage=97%]:6.58763701108789E-004)[&rate=1.65160759392097E+000,branch_length=2.26434878822204E-003,reltime=1.19113131753866E-002,reltime_stderr=6.43212570527654E-003,reltime_95%_CI={4.73705226754531E-003,2.99509850322294E-002},data_coverage=97%]:1.37099683760014E-003)[&rate=1.49879561520876E+000,branch_length=4.77155681310811E-003,reltime=1.32823100129867E-002,reltime_stderr=6.71529773797721E-003,reltime_95%_CI={5.53714931945542E-003,3.18611164523261E-002},data_coverage=97%]:3.18359405691450E-003)[&rate=1.36785046274025E+000,branch_length=1.51727430386633E-002,reltime=1.64659040699012E-002,reltime_stderr=7.94781027213833E-003,reltime_95%_CI={7.08924992295843E-003,3.82446661897407E-002},data_coverage=97%]:1.10923989514668E-002)[&rate=1.18546824954876E+000,branch_length=2.40766619000086E-002,reltime=2.75583030213680E-002,reltime_stderr=1.26381582732587E-002,reltime_95%_CI={1.22839276125406E-002,6.18255080437148E-002},data_coverage=97%]:2.03098327679153E-002)[&rate=1.35079110262844E+000,branch_length=1.93589523241709E-002,reltime=4.78681357892833E-002,reltime_stderr=1.79239989935867E-002,reltime_95%_CI={2.42452893836351E-002,9.45073654384949E-002},data_coverage=97%]:1.43315663587813E-002)[&rate=1.07208715186777E+000,branch_length=1.44773539587195E-002,reltime=6.21997021480646E-002,reltime_stderr=2.21764515796695E-002,reltime_95%_CI={3.24161859601569E-002,1.19347876152461E-001},data_coverage=97%]:1.35038965195109E-002,((190[&rate=1.26780298609420E+000,branch_length=8.23046250628545E-002]:6.49190970250158E-002,(218[&rate=1.14850241959568E+000,branch_length=5.43540411677671E-002]:4.73260136333906E-002,((195[&rate=1.05563657927042E+000,branch_length=3.09186490681144E-002]:2.92891035373964E-002,(240[&rate=1.00548957793912E+000,branch_length=2.47014534841389E-002]:2.45665932557627E-002,(194[&rate=8.97093697154403E-001,branch_length=6.36255665175443E-003]:7.09241038247908E-003,222[&rate=1.13872969443667E+000,branch_length=8.07633830765985E-003]:7.09241038247908E-003)[&rate=1.01071619737773E+000,branch_length=1.76614396659682E-002,reltime=7.09241038247908E-003,reltime_stderr=4.52898182983216E-003,reltime_95%_CI={2.48541111708145E-003,2.02390198900235E-002},data_coverage=97%]:1.74741828732836E-002)[&rate=1.00809950040537E+000,branch_length=4.76076025557422E-003,reltime=2.45665932557627E-002,reltime_stderr=1.34782627726203E-002,reltime_95%_CI={9.65747523007723E-003,6.24922652987490E-002},data_coverage=97%]:4.72251028163374E-003)[&rate=1.03159425559285E+000,branch_length=1.34819651374644E-002,reltime=2.92891035373964E-002,reltime_stderr=1.50051522872622E-002,reltime_95%_CI={1.20965934931532E-002,7.09167904592212E-002},data_coverage=97%]:1.30690579793084E-002,(220[&rate=1.10190508317318E+000,branch_length=3.20389794997301E-002]:2.90759884757649E-002,197[&rate=1.27271625980465E+000,branch_length=3.70054833029987E-002]:2.90759884757649E-002)[&rate=1.18423499193188E+000,branch_length=1.57292140839752E-002,reltime=2.90759884757649E-002,reltime_stderr=1.48915416434578E-002,reltime_95%_CI={1.20111061041575E-002,7.03859493465122E-002},data_coverage=97%]:1.32821730409398E-002)[&rate=1.10528277601207E+000,branch_length=5.49088137834796E-003,reltime=4.23581615167048E-002,reltime_stderr=2.01060172696415E-002,reltime_95%_CI={1.84470941306606E-002,9.72626818276553E-002},data_coverage=97%]:4.96785211668582E-003)[&rate=1.12668537870485E+000,branch_length=1.98218698236794E-002,reltime=4.73260136333906E-002,reltime_stderr=2.10420247414916E-002,reltime_95%_CI={2.15325032737056E-002,1.04017240260353E-001},data_coverage=97%]:1.75930833916253E-002)[&rate=1.19516320538690E+000,branch_length=6.26716648308061E-003,reltime=6.49190970250158E-002,reltime_stderr=2.50856430563648E-002,reltime_95%_CI={3.22690332997970E-002,1.30604754080747E-001},data_coverage=97%]:5.24377461992881E-003,(210[&rate=1.57677993155020E+000,branch_length=9.89471647985683E-002]:6.27526789368060E-002,196[&rate=1.06017952687451E+000,branch_length=6.65291054653308E-002]:6.27526789368060E-002)[&rate=1.29293070263495E+000,branch_length=9.58086566479410E-003,reltime=6.27526789368060E-002,reltime_stderr=2.43835838404746E-002,reltime_95%_CI={3.10875594575361E-002,1.26671208112197E-001},data_coverage=97%]:7.41019270813868E-003)[&rate=1.24308616069214E+000,branch_length=6.88760108200542E-003,reltime=7.01628716449446E-002,reltime_stderr=2.47195111473394E-002,reltime_95%_CI={3.68155455027121E-002,1.33716029200282E-001},data_coverage=97%]:5.54072702263089E-003)[&rate=1.15442483581336E+000,branch_length=2.49790706081935E-003,reltime=7.57035986675755E-002,reltime_stderr=2.57319878338037E-002,reltime_95%_CI={4.05306457479956E-002,1.41400038056506E-001},data_coverage=97%]:2.16376760385567E-003,(191[&rate=1.06763723207509E+000,branch_length=6.02631418574207E-002]:5.64453355942744E-002,(202[&rate=1.01499413123695E+000,branch_length=4.77004938800901E-002]:4.69958322044275E-002,(203[&rate=8.67736801727747E-001,branch_length=2.12612558790022E-002]:2.45019640018368E-002,((201[&rate=1.15582080556184E+000,branch_length=2.07120877728789E-002]:1.79198087395657E-002,(187[&rate=1.11075558403479E+000,branch_length=1.74292014015982E-002]:1.56913020759139E-002,56[&rate=1.10017196464295E+000,branch_length=1.72631306326642E-002]:1.56913020759139E-002)[&rate=1.10545110842845E+000,branch_length=2.46350516147397E-003,reltime=1.56913020759139E-002,reltime_stderr=9.17531924921419E-003,reltime_95%_CI={5.88324996105814E-003,4.18505014179778E-002},data_coverage=97%]:2.22850666365171E-003)[&rate=1.13035542669242E+000,branch_length=2.86606644416785E-003,reltime=1.79198087395657E-002,reltime_stderr=9.67970766849817E-003,reltime_95%_CI={7.12499396643605E-003,4.50694480269489E-002},data_coverage=97%]:2.53554446370410E-003,(57[&rate=1.55062766636077E+000,branch_length=5.71166592787052E-003]:3.68345415974388E-003,58[&rate=9.43295326882921E-001,branch_length=3.47458509567386E-003]:3.68345415974388E-003)[&rate=1.20942127954385E+000,branch_length=2.02842916016013E-002,reltime=3.68345415974388E-003,reltime_stderr=2.20642025032149E-003,reltime_95%_CI={1.35607284221875E-003,1.00052402234790E-002},data_coverage=97%]:1.67718990435259E-002)[&rate=1.16922021300082E+000,branch_length=4.73137913983193E-003,reltime=2.04553532032698E-002,reltime_stderr=1.02824828134903E-002,reltime_95%_CI={8.56203915459375E-003,4.88693717834757E-002},data_coverage=97%]:4.04661079856701E-003)[&rate=1.00726134053917E+000,branch_length=2.26572038396529E-002,reltime=2.45019640018368E-002,reltime_stderr=1.16865583009827E-002,reltime_95%_CI={1.06355925387524E-002,5.64469010786048E-002},data_coverage=97%]:2.24938682025907E-002)[&rate=1.01112034361352E+000,branch_length=9.55458511451908E-003,reltime=4.69958322044275E-002,reltime_stderr=1.93455444784149E-002,reltime_95%_CI={2.24675603438893E-002,9.83020946992758E-002},data_coverage=97%]:9.44950338984689E-003)[&rate=1.03899457407166E+000,branch_length=2.22573736391626E-002,reltime=5.64453355942744E-002,reltime_stderr=2.05050246419555E-002,reltime_95%_CI={2.91015639877441E-002,1.09481260584210E-001},data_coverage=97%]:2.14220306771568E-002)[&rate=1.09519000204697E+000,branch_length=6.39398977362343E-003,reltime=7.78673662714312E-002,reltime_stderr=2.53852118446324E-002,reltime_95%_CI={4.26510899353265E-002,1.42161120366285E-001},data_coverage=97%]:5.83824702715759E-003,((263[&rate=1.07329835678391E+000,branch_length=2.57338360090173E-002]:2.39764049263315E-002,(27[&rate=8.90412050828814E-001,branch_length=1.01682134930396E-002]:1.14196719188322E-002,149[&rate=6.66155468443730E-001,branch_length=7.60727689656339E-003]:1.14196719188322E-002)[&rate=7.70164175243053E-001,branch_length=9.67074592046794E-003,reltime=1.14196719188322E-002,reltime_stderr=5.86059170308112E-003,reltime_95%_CI={4.71060288719104E-003,2.76841223632690E-002},data_coverage=97%]:1.25567330074993E-002)[&rate=9.09184218814979E-001,branch_length=1.93845027623677E-002,reltime=2.39764049263315E-002,reltime_stderr=9.74615639227561E-003,reltime_95%_CI={1.15532380084301E-002,4.97581710661505E-002},data_coverage=96%]:2.13207646604703E-002,(183[&rate=8.60067366061950E-001,branch_length=3.42856870142726E-002]:3.98639552751069E-002,267[&rate=1.08027978818164E+000,branch_length=4.30642251606748E-002]:3.98639552751069E-002)[&rate=9.63905281670011E-001,branch_length=5.23710397148789E-003,reltime=3.98639552751069E-002,reltime_stderr=1.50929421981359E-002,reltime_95%_CI={2.00589404241111E-002,7.92232738408037E-002},data_coverage=97%]:5.43321431169499E-003)[&rate=9.36145005074952E-001,branch_length=3.59558727334918E-002,reltime=4.52971695868019E-002,reltime_stderr=1.59422236468084E-002,reltime_95%_CI={2.37822656288611E-002,8.62757823243501E-002},data_coverage=97%]:3.84084437117869E-002)[&rate=1.01254957904505E+000,branch_length=9.78863047757320E-003,reltime=8.37056132985888E-002,reltime_stderr=2.59035182708752E-002,reltime_95%_CI={4.71286116400198E-002,1.48670403261850E-001},data_coverage=97%]:9.66730980897255E-003,(120[&rate=8.50410783764965E-001,branch_length=6.21471359757732E-002]:7.30789603826911E-002,((185[&rate=9.19112735252000E-001,branch_length=3.37667675106072E-002]:3.67384393834442E-002,(214[&rate=8.95171838128715E-001,branch_length=2.54169313926326E-002]:2.83933545605776E-002,(213[&rate=6.53871276461864E-001,branch_length=1.36336004562412E-002]:2.08505877946092E-002,211[&rate=1.13549255491688E+000,branch_length=2.36756872064194E-002]:2.08505877946092E-002)[&rate=8.61664648396603E-001,branch_length=6.49933547333574E-003,reltime=2.08505877946092E-002,reltime_stderr=1.09051336186336E-002,reltime_95%_CI={8.48556860026991E-003,5.12336923853136E-002},data_coverage=96%]:7.54276676596840E-003)[&rate=8.78258462615488E-001,branch_length=7.32914136692669E-003,reltime=2.83933545605776E-002,reltime_stderr=1.32003006330128E-002,reltime_95%_CI={1.25406045502428E-002,6.42857830316529E-002},data_coverage=97%]:8.34508482286663E-003)[&rate=8.98453414392052E-001,branch_length=6.95216138100357E-003,reltime=3.67384393834442E-002,reltime_stderr=1.49568005319991E-002,reltime_95%_CI={1.76857501492944E-002,7.63164082347308E-002},data_coverage=97%]:7.73792081997688E-003,(17[&rate=6.23075565719889E-001,branch_length=2.26532640696176E-002]:3.63571696852604E-002,80[&rate=8.77704821205368E-001,branch_length=3.19108631181348E-002]:3.63571696852604E-002)[&rate=7.39510938396186E-001,branch_length=6.00423019910239E-003,reltime=3.63571696852604E-002,reltime_stderr=1.54960756149354E-002,reltime_95%_CI={1.70019558337482E-002,7.77465722442950E-002},data_coverage=97%]:8.11919051816063E-003)[&rate=8.15117247751712E-001,branch_length=2.33144727366692E-002,reltime=4.44763602034211E-002,reltime_stderr=1.70821870027993E-002,reltime_95%_CI={2.21887416749990E-002,8.91509147259721E-002},data_coverage=97%]:2.86026001792700E-002)[&rate=8.32577021975069E-001,branch_length=1.68962870495455E-002,reltime=7.30789603826911E-002,reltime_stderr=2.42406648387327E-002,reltime_95%_CI={3.96542098668993E-002,1.34677616034732E-001},data_coverage=97%]:2.02939627248702E-002)[&rate=9.18164208147666E-001,branch_length=1.92373155285152E-002,reltime=9.33729231075613E-002,reltime_stderr=2.81616609260072E-002,reltime_95%_CI={5.32706310376588E-002,1.63664341867607E-001},data_coverage=97%]:2.09519336059997E-002)[&rate=1.26837085122973E+000,branch_length=7.29079271007320E-003,reltime=1.14324856713561E-001,reltime_stderr=2.45979535923264E-002,reltime_95%_CI={7.58628623587574E-002,1.72286840440677E-001},data_coverage=97%]:5.74815536245141E-003,(((248[&rate=6.40277582080801E-001,branch_length=3.05155433523706E-002]:4.76598653558975E-002,(21[&rate=6.42696310743426E-001,branch_length=1.56934608482019E-002]:2.44181592236756E-002,246[&rate=7.81742312116319E-001,branch_length=1.90887082491406E-002]:2.44181592236756E-002)[&rate=7.08817959668908E-001,branch_length=1.64741387198659E-002,reltime=2.44181592236756E-002,reltime_stderr=1.05662567963317E-002,reltime_95%_CI={1.13080213475968E-002,5.27277479892172E-002},data_coverage=97%]:2.32417061322219E-002)[&rate=6.73676665287036E-001,branch_length=1.81569924504909E-003,reltime=4.76598653558975E-002,reltime_stderr=1.60500131610159E-002,reltime_95%_CI={2.56477545834419E-002,8.79725547832854E-002},data_coverage=97%]:2.69520875311225E-003,(18[&rate=6.78444077408615E-001,branch_length=1.59393850818897E-002]:2.34940293719886E-002,247[&rate=8.69100162199541E-001,branch_length=2.04186647379160E-002]:2.34940293719886E-002)[&rate=7.67877501766490E-001,branch_length=2.06259919275018E-002,reltime=2.34940293719886E-002,reltime_stderr=8.95499360621833E-003,reltime_95%_CI={1.17745600619819E-002,4.68781349983578E-002},data_coverage=97%]:2.68610447370212E-002)[&rate=7.19236508207826E-001,branch_length=2.81608855905259E-002,reltime=5.03550741090097E-002,reltime_stderr=1.50891705668912E-002,reltime_95%_CI={2.88230061610718E-002,8.79725547832854E-002},data_coverage=97%]:3.91538600573774E-002,(19[&rate=5.57343349953742E-001,branch_length=1.20405772235889E-002]:2.16035182344747E-002,11[&rate=4.89505851545366E-001,branch_length=1.05750485897424E-002]:2.16035182344747E-002)[&rate=5.22324450052124E-001,branch_length=3.54686590321969E-002,reltime=2.16035182344747E-002,reltime_stderr=9.28374209921765E-003,reltime_95%_CI={1.00494193192935E-002,4.64416883482267E-002},data_coverage=97%]:6.79054159319124E-002)[&rate=6.12923171047614E-001,branch_length=1.87334315525139E-002,reltime=8.95089341663871E-002,reltime_stderr=2.48039907843236E-002,reltime_95%_CI={5.32436274930038E-002,1.50475271367552E-001},data_coverage=97%]:3.05640779096253E-002)[&rate=8.81710771285054E-001,branch_length=3.02201804966217E-003,reltime=1.20073012076012E-001,reltime_stderr=2.36542815958557E-002,reltime_95%_CI={8.23504652942369E-002,1.73281234612527E-001},data_coverage=97%]:3.42744826090501E-003,(((28[&rate=1.30511848752511E+000,branch_length=9.06965106606948E-002]:6.94929322721359E-002,127[&rate=9.17542028347742E-001,branch_length=6.37626860328079E-002]:6.94929322721359E-002)[&rate=1.09430391769285E+000,branch_length=1.93948111588851E-002,reltime=6.94929322721359E-002,reltime_stderr=2.29030575822653E-002,reltime_95%_CI={3.78407698262987E-002,1.27620755548779E-001},data_coverage=97%]:1.77234229406541E-002,(100[&rate=1.97001603431327E+000,branch_length=6.68458899321665E-002]:3.39316476454307E-002,40[&rate=1.56426137996079E+000,branch_length=5.30779659701848E-002]:3.39316476454307E-002)[&rate=1.75545435724765E+000,branch_length=9.35388720737878E-002,reltime=3.39316476454307E-002,reltime_stderr=1.06138884587508E-002,reltime_95%_CI={1.89979184497987E-002,6.06043612081017E-002},data_coverage=97%]:5.32847075673593E-002)[&rate=1.38600165240417E+000,branch_length=1.76118129383952E-002,reltime=8.72163552127900E-002,reltime_stderr=1.91954174416578E-002,reltime_95%_CI={5.73621602055147E-002,1.32608196576813E-001},data_coverage=97%]:1.27069205926599E-002,((136[&rate=9.24261320355877E-001,branch_length=4.57184788489678E-002]:4.94648838397396E-002,(38[&rate=9.91206480782261E-001,branch_length=2.35477553167268E-002]:2.37566599626577E-002,39[&rate=9.18615825072300E-001,branch_length=2.18232437925589E-002]:2.37566599626577E-002)[&rate=9.54221126972573E-001,branch_length=2.45313303604522E-002,reltime=2.37566599626577E-002,reltime_stderr=9.67941054669856E-003,reltime_95%_CI={1.14306939576636E-002,4.93739833007220E-002},data_coverage=97%]:2.57082238770818E-002)[&rate=9.39121759266146E-001,branch_length=3.67576636434001E-002,reltime=4.94648838397396E-002,reltime_stderr=1.52989015783428E-002,reltime_95%_CI={2.78581306327145E-002,8.78298248198184E-002},data_coverage=97%]:3.91404663779950E-002,(219[&rate=1.16063619023391E+000,branch_length=3.68001408335346E-002]:3.17068700279956E-002,(97[&rate=7.27788962179873E-001,branch_length=4.03466701764035E-003]:5.54373208073357E-003,98[&rate=5.87548426525936E-001,branch_length=3.25721106111636E-003]:5.54373208073357E-003)[&rate=6.53919918317012E-001,branch_length=1.71085970293903E-002,reltime=5.54373208073357E-003,reltime_stderr=3.15881042595132E-003,reltime_95%_CI={2.11925322237843E-003,1.45017900921076E-002},data_coverage=97%]:2.61631379472621E-002)[&rate=8.71184895824948E-001,branch_length=4.95690965366955E-002,reltime=3.17068700279956E-002,reltime_stderr=1.11531351012544E-002,reltime_95%_CI={1.66520810211664E-002,6.03723706180834E-002},data_coverage=97%]:5.68984801897389E-002)[&rate=9.04515722369283E-001,branch_length=1.02372416386941E-002,reltime=8.86053502177345E-002,reltime_stderr=2.11834546574046E-002,reltime_95%_CI={5.63312483565737E-002,1.39370390613600E-001},data_coverage=97%]:1.13179255877153E-002)[&rate=1.11966972176146E+000,branch_length=2.63986596442668E-002,reltime=9.99232758054499E-002,reltime_stderr=1.95604740717392E-002,reltime_95%_CI={6.86871867358213E-002,1.45364245097039E-001},data_coverage=97%]:2.35771845314676E-002)[&rate=9.93591895075041E-001,branch_length=5.34608806638561E-003,reltime=1.23500460336917E-001,reltime_stderr=2.17500949593902E-002,reltime_95%_CI={8.80208623717175E-002,1.73281234612527E-001},data_coverage=97%]:5.38056730623980E-003,(((264[&rate=7.99796253917408E-001,branch_length=7.30103845826187E-003]:9.12862297429043E-003,(225[&rate=5.29666398712677E-001,branch_length=2.25069253692546E-003]:4.24926433391969E-003,(36[&rate=3.57083284461240E+000,branch_length=9.04903421670776E-003]:2.53415228617065E-003,238[&rate=3.04059501011965E-001,branch_length=7.70533079621377E-004]:2.53415228617065E-003)[&rate=1.04199119618641E+000,branch_length=1.78713165422774E-003,reltime=2.53415228617065E-003,reltime_stderr=1.31870592259522E-003,reltime_95%_CI={1.03506204119362E-003,6.20438925776686E-003},data_coverage=97%]:1.71511204774904E-003)[&rate=7.42904922836274E-001,branch_length=3.62489955421513E-003,reltime=4.24926433391969E-003,reltime_stderr=1.99465144008412E-003,reltime_95%_CI={1.86461247677019E-003,9.68364612189996E-003},data_coverage=97%]:4.87935864037074E-003)[&rate=7.70825904015461E-001,branch_length=2.73233947565332E-002,reltime=9.12862297429043E-003,reltime_stderr=3.76788302303870E-003,reltime_95%_CI={4.35678608259566E-003,1.91268875329074E-002},data_coverage=97%]:3.54469078091402E-002,(200[&rate=1.16181975822857E+000,branch_length=1.54293878839571E-002]:1.32803627883574E-002,193[&rate=8.32472372782310E-001,branch_length=1.10555351218338E-002]:1.32803627883574E-002)[&rate=9.83454549472372E-001,branch_length=3.07773753412569E-002,reltime=1.32803627883574E-002,reltime_stderr=4.92024375649737E-003,reltime_95%_CI={6.76877350396675E-003,2.60561290294364E-002},data_coverage=97%]:3.12951679950732E-002)[&rate=8.70673441742172E-001,branch_length=6.09883509414160E-002,reltime=4.45755307834306E-002,reltime_stderr=1.23765090674655E-002,reltime_95%_CI={2.64907019135562E-002,7.50066174580208E-002},data_coverage=97%]:7.00473312007560E-002,(((3[&rate=7.63758711257751E-001,branch_length=6.60642089397401E-002]:8.64987959756899E-002,(((((138[&rate=2.55291740400990E+000,branch_length=8.41889643373481E-002]:3.29775511754166E-002,(90[&rate=2.76867778818452E+000,branch_length=7.69141809762483E-002]:2.77801126965672E-002,89[&rate=2.33974630419743E+000,branch_length=6.49984160119813E-002]:2.77801126965672E-002)[&rate=2.54519225647460E+000,branch_length=1.32284801698706E-002,reltime=2.77801126965672E-002,reltime_stderr=1.30485854429679E-002,reltime_95%_CI={1.21848959622621E-002,6.33353508986962E-002},data_coverage=97%]:5.19743847884940E-003)[&rate=2.54905190376838E+000,branch_length=6.27099151862441E-003,reltime=3.29775511754166E-002,reltime_stderr=1.33607841599966E-002,reltime_95%_CI={1.59232539654361E-002,6.82975278726227E-002},data_coverage=97%]:2.46012704149088E-003,((234[&rate=9.99690354771085E-001,branch_length=1.00211123032277E-002]:1.00242162539644E-002,(91[&rate=2.56554912275686E+000,branch_length=1.94886863446724E-002]:7.59630216073603E-003,(228[&rate=2.00868415394745E+000,branch_length=7.44490394514803E-003]:3.70635867790234E-003,(230[&rate=2.82829885056153E+000,branch_length=8.59331108652385E-003]:3.03833206480911E-003,(232[&rate=2.37286749779521E+000,branch_length=6.11985521810926E-003]:2.57909690439758E-003,(229[&rate=2.25726150858192E+000,branch_length=3.67787882856251E-003]:1.62935433691645E-003,(233[&rate=2.52736934611747E+000,branch_length=3.92270335467894E-003]:1.55208947228270E-003,231[&rate=2.73306746444987E+000,branch_length=4.24196523861101E-003]:1.55208947228270E-003)[&rate=2.62820678990861E+000,branch_length=2.03068041851784E-004,reltime=1.55208947228270E-003,reltime_stderr=1.12378075394638E-003,reltime_95%_CI={4.91916353336725E-004,4.89713690880653E-003},data_coverage=97%]:7.72648646337473E-005)[&rate=2.43568266066298E+000,branch_length=2.31327150370734E-003,reltime=1.62935433691645E-003,reltime_stderr=1.13173828440078E-003,reltime_95%_CI={5.34107991075491E-004,4.97052206592656E-003},data_coverage=97%]:9.49742567481136E-004)[&rate=2.40406992835702E+000,branch_length=1.10403343918955E-003,reltime=2.57909690439758E-003,reltime_stderr=1.66681846463872E-003,reltime_95%_CI={8.95342365237923E-004,7.42927074662172E-003},data_coverage=97%]:4.59235160411522E-004)[&rate=2.60757132501524E+000,branch_length=1.74192704064897E-003,reltime=3.03833206480911E-003,reltime_stderr=1.82823350013234E-003,reltime_95%_CI={1.11472263346614E-003,8.28139795398493E-003},data_coverage=97%]:6.68026613093233E-004)[&rate=2.28862124451510E+000,branch_length=8.90260729477625E-003,reltime=3.70635867790234E-003,reltime_stderr=2.14883401818568E-003,reltime_95%_CI={1.39860039200569E-003,9.82202974329358E-003},data_coverage=97%]:3.88994348283369E-003)[&rate=2.42313231710289E+000,branch_length=5.88315710245114E-003,reltime=7.59630216073603E-003,reltime_stderr=3.82292632549916E-003,reltime_95%_CI={3.17701709135697E-003,1.81628882873137E-002},data_coverage=97%]:2.42791409322834E-003)[&rate=1.55640033594891E+000,branch_length=2.34098344013120E-002,reltime=1.00242162539644E-002,reltime_stderr=4.94441862625399E-003,reltime_95%_CI={4.25173567069281E-003,2.36338566856085E-002},data_coverage=97%]:1.50410108894249E-002,(93[&rate=1.98715962916927E+000,branch_length=4.29247432210412E-002]:2.16010543848386E-002,92[&rate=1.94143160861344E+000,branch_length=4.19369697621036E-002]:2.16010543848386E-002)[&rate=1.96416254811810E+000,branch_length=6.80419839255608E-003,reltime=2.16010543848386E-002,reltime_stderr=9.69750729264227E-003,reltime_95%_CI={9.76571914885300E-003,4.77799477360107E-002},data_coverage=97%]:3.46417275855062E-003)[&rate=1.74843451400082E+000,branch_length=1.81355514517242E-002,reltime=2.50652271433892E-002,reltime_stderr=1.07251560780346E-002,reltime_95%_CI={1.16920081049781E-002,5.37346199308738E-002},data_coverage=97%]:1.03724510735183E-002)[&rate=2.11112536968512E+000,branch_length=1.99385481319252E-002,reltime=3.54376782169075E-002,reltime_stderr=1.37445838964365E-002,reltime_95%_CI={1.75753262915783E-002,7.14540951656096E-002},data_coverage=97%]:9.44451164210067E-003,(88[&rate=1.63583066356125E+000,branch_length=6.91830113916648E-002]:4.22922817946518E-002,(87[&rate=1.39646021920234E+000,branch_length=3.94662031482441E-002]:2.82616021606310E-002,86[&rate=1.18682865564951E+000,branch_length=3.35416792988030E-002]:2.82616021606310E-002)[&rate=1.28738455972717E+000,branch_length=1.80628803233169E-002,reltime=2.82616021606310E-002,reltime_stderr=1.35042232019693E-002,reltime_95%_CI={1.22523613260103E-002,6.51889162777300E-002},data_coverage=97%]:1.40306796340208E-002)[&rate=1.45118680348087E+000,branch_length=3.75844040522262E-003,reltime=4.22922817946518E-002,reltime_stderr=1.68667148480054E-002,reltime_95%_CI={2.06210189366105E-002,8.67385411407916E-002},data_coverage=97%]:2.58990806435635E-003)[&rate=1.75032490611906E+000,branch_length=4.69432067570423E-003,reltime=4.48821898590082E-002,reltime_stderr=1.65553325225956E-002,reltime_95%_CI={2.29348759558554E-002,8.78317794444303E-002},data_coverage=97%]:2.68197102109048E-003,(85[&rate=1.46743126359527E+000,branch_length=5.26682363039383E-002]:3.58914503258565E-002,35[&rate=1.47072318575142E+000,branch_length=5.27863881644824E-002]:3.58914503258565E-002)[&rate=1.46907630260176E+000,branch_length=1.71481024623666E-002,reltime=3.58914503258565E-002,reltime_stderr=1.44396847993509E-002,reltime_95%_CI={1.74058438809447E-002,7.40094082944001E-002},data_coverage=97%]:1.16727105542422E-002)[&rate=1.60354633279902E+000,branch_length=4.51645039200618E-003,reltime=4.75641608800986E-002,reltime_stderr=1.65703297304149E-002,reltime_95%_CI={2.51169442798807E-002,9.00726368231070E-002},data_coverage=97%]:2.81653875514942E-003,((81[&rate=9.00897129502099E-001,branch_length=1.06353656140217E-002]:1.18053052515547E-002,(133[&rate=1.34233272286920E+000,branch_length=2.63320184036190E-003]:1.96166106621725E-003,132[&rate=5.23497151791181E-001,branch_length=1.02692398094438E-003]:1.96166106621725E-003)[&rate=8.38276420507058E-001,branch_length=8.25169481242979E-003,reltime=1.96166106621725E-003,reltime_stderr=1.21383430493507E-003,reltime_95%_CI={7.04438467525084E-004,5.46266894287055E-003},data_coverage=97%]:9.84364418533745E-003)[&rate=8.69022911645087E-001,branch_length=1.75506924680880E-002,reltime=1.18053052515547E-002,reltime_stderr=5.77318558734490E-003,reltime_95%_CI={5.03706368249335E-003,2.76679511848853E-002},data_coverage=97%]:2.01958915385372E-002,(82[&rate=1.56921308938227E+000,branch_length=4.31555891208741E-002]:2.75014205609657E-002,(((8[&rate=1.03014838230703E+000,branch_length=1.61589991246858E-002]:1.56860889190521E-002,(145[&rate=1.78841373696605E+000,branch_length=2.41556745436691E-002]:1.35067596744408E-002,(131[&rate=9.81623038942502E-001,branch_length=5.99469433865672E-003]:6.10692098783131E-003,(146[&rate=1.13072777086289E+000,branch_length=5.18878367829769E-003]:4.58888851234101E-003,130[&rate=1.98959269052937E+000,branch_length=9.13001904180786E-003]:4.58888851234101E-003)[&rate=1.49989589901679E+000,branch_length=2.27689068456220E-003,reltime=4.58888851234101E-003,reltime_stderr=2.89034799742657E-003,reltime_95%_CI={1.62539477465287E-003,1.29555589245650E-002},data_coverage=97%]:1.51803247549030E-003)[&rate=1.21339703744910E+000,branch_length=8.97894233993321E-003,reltime=6.10692098783131E-003,reltime_stderr=3.76398556282277E-003,reltime_95%_CI={2.19968009913871E-003,1.69545035054040E-002},data_coverage=97%]:7.39983868660949E-003)[&rate=1.47311097007927E+000,branch_length=3.21039381765150E-003,reltime=1.35067596744408E-002,reltime_stderr=7.08120774171461E-003,reltime_95%_CI={5.48739778599139E-003,3.32457321335127E-002},data_coverage=97%]:2.17932924461132E-003)[&rate=1.23187778727677E+000,branch_length=4.71660671468059E-003,reltime=1.56860889190521E-002,reltime_stderr=7.67796881937449E-003,reltime_95%_CI={6.68871398781960E-003,3.67863517597676E-002},data_coverage=97%]:3.82879435232556E-003,(83[&rate=1.34823813680187E+000,branch_length=2.48118004078049E-002]:1.84031290396966E-002,(129[&rate=1.18233703777110E+000,branch_length=1.50139094689797E-002]:1.26985021946731E-002,6[&rate=1.39333830106932E+000,branch_length=1.76933094740509E-002]:1.26985021946731E-002)[&rate=1.28350904924715E+000,branch_length=7.32194017816581E-003,reltime=1.26985021946731E-002,reltime_stderr=6.93789824578855E-003,reltime_95%_CI={5.00723454061229E-003,3.22037956641034E-002},data_coverage=97%]:5.70462684502345E-003)[&rate=1.31547552205478E+000,branch_length=1.46248547831729E-003,reltime=1.84031290396966E-002,reltime_stderr=8.82080920128783E-003,reltime_95%_CI={7.96150665683453E-003,4.25390787258828E-002},data_coverage=97%]:1.11175423168109E-003)[&rate=1.27299060299972E+000,branch_length=1.38685302709151E-003,reltime=1.95148832713777E-002,reltime_stderr=8.94667144225396E-003,reltime_95%_CI={8.70044569479509E-003,4.37713977484306E-002},data_coverage=97%]:1.08944482686948E-003,(128[&rate=7.99081220329876E-001,branch_length=6.83303316754152E-003]:8.55111219447845E-003,84[&rate=1.69969582305291E+000,branch_length=1.45342896794118E-002]:8.55111219447845E-003)[&rate=1.16541624000814E+000,branch_length=1.40470135585765E-002,reltime=8.55111219447845E-003,reltime_stderr=4.42700946990940E-003,reltime_95%_CI={3.50545785981022E-003,2.08593349818551E-002},data_coverage=97%]:1.20532159037687E-002)[&rate=1.21801638827794E+000,branch_length=8.40077165105938E-003,reltime=2.06043280982472E-002,reltime_stderr=9.15952736974593E-003,reltime_95%_CI={9.37564184259789E-003,4.52809891320019E-002},data_coverage=97%]:6.89709246271850E-003)[&rate=1.38250759837618E+000,branch_length=6.22097482775950E-003,reltime=2.75014205609657E-002,reltime_stderr=1.06938096207944E-002,reltime_95%_CI={1.36182208799020E-002,5.55379545934160E-002},data_coverage=97%]:4.49977622912622E-003)[&rate=1.09609797851849E+000,branch_length=2.01457359147505E-002,reltime=3.20011967900919E-002,reltime_stderr=1.20345441869051E-002,reltime_95%_CI={1.61672490463224E-002,6.33426622589905E-002},data_coverage=97%]:1.83795028451562E-002)[&rate=1.32576162783576E+000,branch_length=4.78839861986331E-002,reltime=5.03806996352481E-002,reltime_stderr=1.69328822763259E-002,reltime_95%_CI={2.71413780224803E-002,9.35182765456776E-002},data_coverage=97%]:3.61180963404418E-002)[&rate=1.00626139363031E+000,branch_length=1.27167856879756E-002,reltime=8.64987959756899E-002,reltime_stderr=2.41678911865666E-002,reltime_95%_CI={5.12507598190210E-002,1.45988893270362E-001},data_coverage=96%]:1.26376563470223E-002,(237[&rate=7.79296615662664E-001,branch_length=4.97589469230854E-002]:6.38511010095605E-002,(((236[&rate=8.08087266411322E-001,branch_length=3.80944683629302E-002]:4.71415278353611E-002,(137[&rate=7.38603087154274E-001,branch_length=2.85942084931095E-002]:3.87139032999153E-002,((77[&rate=1.23297582558601E+000,branch_length=3.55328700535643E-002]:2.88187889139484E-002,(261[&rate=1.50526960023387E+000,branch_length=3.99564397846182E-002]:2.65443743621809E-002,(192[&rate=1.21503917767863E+000,branch_length=2.89294595669796E-002]:2.38094870506564E-002,25[&rate=8.94576376698066E-001,branch_length=2.12994046568157E-002]:2.38094870506564E-002)[&rate=1.04256671015046E+000,branch_length=2.85130246700838E-003,reltime=2.38094870506564E-002,reltime_stderr=1.39528175800726E-002,reltime_95%_CI={8.91235424097737E-003,6.36073991548618E-002},data_coverage=97%]:2.73488731152455E-003)[&rate=1.25273459878991E+000,branch_length=2.84923780099033E-003,reltime=2.65443743621809E-002,reltime_stderr=1.41126422037863E-002,reltime_95%_CI={1.06761811188914E-002,6.59977385577338E-002},data_coverage=97%]:2.27441455176746E-003)[&rate=1.24281594622179E+000,branch_length=4.96558510802292E-003,reltime=2.88187889139484E-002,reltime_stderr=1.41410487237185E-002,reltime_95%_CI={1.22675975710342E-002,6.77005085680108E-002},data_coverage=97%]:3.99543079819543E-003,(268[&rate=1.09698199078000E+000,branch_length=2.22131075316116E-002]:2.02492909804446E-002,(235[&rate=1.27532654501017E+000,branch_length=1.44301885231708E-002]:1.13148970196144E-002,212[&rate=1.08391673326073E+000,branch_length=1.22644062146820E-002]:1.13148970196144E-002)[&rate=1.17573287038686E+000,branch_length=1.05044606567339E-002,reltime=1.13148970196144E-002,reltime_stderr=6.42144541271784E-003,reltime_95%_CI={4.33836126284177E-003,2.95104272806957E-002},data_coverage=97%]:8.93439396083020E-003)[&rate=1.13567503485040E+000,branch_length=1.42696758752653E-002,reltime=2.02492909804446E-002,reltime_stderr=1.03389553481805E-002,reltime_95%_CI={8.38312152039996E-003,4.89118264852676E-002},data_coverage=97%]:1.25649287316992E-002)[&rate=1.18803831715903E+000,branch_length=7.00905016138678E-003,reltime=3.28142197121438E-002,reltime_stderr=1.53130376401324E-002,reltime_95%_CI={1.44565083514633E-002,7.44836159007823E-002},data_coverage=97%]:5.89968358777149E-003)[&rate=9.36743704922123E-001,branch_length=7.89452423102615E-003,reltime=3.87139032999153E-002,reltime_stderr=1.66728704126486E-002,reltime_95%_CI={1.79835069223721E-002,8.33411589399547E-002},data_coverage=97%]:8.42762453544587E-003)[&rate=8.70040608154890E-001,branch_length=6.30871450706239E-003,reltime=4.71415278353611E-002,reltime_stderr=1.80278436805971E-002,reltime_95%_CI={2.35793953503866E-002,9.42485425783274E-002},data_coverage=97%]:7.25105753447691E-003,(107[&rate=7.49073404003049E-001,branch_length=2.96061966817940E-002]:3.95237589848719E-002,((271[&rate=9.95761900532145E-001,branch_length=1.13848002878440E-002]:1.14332555621579E-002,(121[&rate=1.34778225995792E+000,branch_length=4.09147164680733E-003]:3.03570670750264E-003,106[&rate=1.10925039634660E+000,branch_length=3.36735886848933E-003]:3.03570670750264E-003)[&rate=1.22271337853449E+000,branch_length=1.02677953314839E-002,reltime=3.03570670750264E-003,reltime_stderr=1.75476092658879E-003,reltime_95%_CI={1.14809877995931E-003,8.02676161218735E-003},data_coverage=97%]:8.39754885465522E-003)[&rate=1.10341805206168E+000,branch_length=4.81574198221606E-003,reltime=1.14332555621579E-002,reltime_stderr=5.50023326946755E-003,reltime_95%_CI={4.93379079696637E-003,2.64947052132792E-002},data_coverage=97%]:4.36438571330068E-003,(110[&rate=9.81392339091358E-001,branch_length=6.29406382977841E-003]:6.41340224400559E-003,241[&rate=9.20673991719866E-001,branch_length=5.90465264449377E-003]:6.41340224400559E-003)[&rate=9.50548474447536E-001,branch_length=8.92017409519862E-003,reltime=6.41340224400559E-003,reltime_stderr=3.42478551220238E-003,reltime_95%_CI={2.57130176555020E-003,1.59964609733835E-002},data_coverage=97%]:9.38423903145295E-003)[&rate=1.02413492571296E+000,branch_length=2.42987457977870E-002,reltime=1.57976412754585E-002,reltime_stderr=7.04876419752726E-003,reltime_95%_CI={7.17098121825001E-003,3.48021368725569E-002},data_coverage=97%]:2.37261177094133E-002)[&rate=8.75872270917523E-001,branch_length=1.30231927316787E-002,reltime=3.95237589848719E-002,reltime_stderr=1.55555117900527E-002,reltime_95%_CI={1.94280741904957E-002,8.04056804075021E-002},data_coverage=97%]:1.48688263849662E-002)[&rate=8.72951569822229E-001,branch_length=2.74126316981623E-003,reltime=5.43925853698380E-002,reltime_stderr=1.91881339280867E-002,reltime_95%_CI={2.85196996085255E-002,1.03737184606626E-001},data_coverage=97%]:3.14022365567711E-003,((((186[&rate=1.28992700527835E+000,branch_length=3.01847687754585E-002]:2.34003696735886E-002,(134[&rate=1.05720333244580E+000,branch_length=1.06496351744665E-002]:1.00734029562970E-002,(143[&rate=1.31370693384075E+000,branch_length=1.04715791932162E-002]:7.97101615548418E-003,163[&rate=1.21755300808148E+000,branch_length=9.70513469757587E-003]:7.97101615548418E-003)[&rate=1.26471650144817E+000,branch_length=2.65892327941475E-003,reltime=7.97101615548418E-003,reltime_stderr=4.39402008675670E-003,reltime_95%_CI={3.12264519292958E-003,2.03472039330159E-002},data_coverage=97%]:2.10238680081278E-003)[&rate=1.15631418737738E+000,branch_length=1.54101606899104E-002,reltime=1.00734029562970E-002,reltime_stderr=5.25573619036848E-003,reltime_95%_CI={4.10670810396604E-003,2.47091939702105E-002},data_coverage=97%]:1.33269667172916E-002)[&rate=1.22129476248962E+000,branch_length=5.76002991196883E-003,reltime=2.34003696735886E-002,reltime_stderr=1.02376626786911E-002,reltime_95%_CI={1.07597287846580E-002,5.08913664851272E-002},data_coverage=97%]:4.71633064259357E-003,(68[&rate=1.05097987766588E+000,branch_length=1.48090379018852E-002]:1.40906959463149E-002,(70[&rate=1.12085452960644E+000,branch_length=1.12098492160637E-002]:1.00011633266984E-002,69[&rate=1.03541256557783E+000,branch_length=1.03553301788598E-002]:1.00011633266984E-002)[&rate=1.07728680681578E+000,branch_length=4.40559953715558E-003,reltime=1.00011633266984E-002,reltime_stderr=5.14807560598924E-003,reltime_95%_CI={4.11667058602374E-003,2.42971269615016E-002},data_coverage=96%]:4.08953261961646E-003)[&rate=1.06405204592553E+000,branch_length=1.49243986459177E-002,reltime=1.40906959463149E-002,reltime_stderr=6.60713880965732E-003,reltime_95%_CI={6.18766731934464E-003,3.20876514532013E-002},data_coverage=97%]:1.40260043698672E-002)[&rate=1.13996543399579E+000,branch_length=4.64749751810248E-003,reltime=2.81167003161821E-002,reltime_stderr=1.14936327755176E-002,reltime_95%_CI={1.35007742635317E-002,5.85558147435609E-002},data_coverage=97%]:4.07687582404330E-003,(224[&rate=1.26048395819787E+000,branch_length=3.37289784498159E-002]:2.67587526445308E-002,142[&rate=1.08915430002709E+000,branch_length=2.91444105061521E-002]:2.67587526445308E-002)[&rate=1.17169173556289E+000,branch_length=6.36793777414842E-003,reltime=2.67587526445308E-002,reltime_stderr=1.12410603050978E-002,reltime_95%_CI={1.26296183721260E-002,5.66945747681093E-002},data_coverage=97%]:5.43482349569462E-003)[&rate=1.15571972287412E+000,branch_length=2.22684834904702E-002,reltime=3.21935761402254E-002,reltime_stderr=1.23848388676128E-002,reltime_95%_CI={1.60452795221431E-002,6.45938478831851E-002},data_coverage=97%]:1.92680656475182E-002,(269[&rate=6.79952276111861E-001,branch_length=1.11985470977965E-002]:1.64696074875029E-002,249[&rate=6.63970582243189E-001,branch_length=1.09353348727940E-002]:1.64696074875029E-002)[&rate=6.71913914625656E-001,branch_length=2.35116347473901E-002,reltime=1.64696074875029E-002,reltime_stderr=8.46765200595029E-003,reltime_95%_CI={6.78491257766245E-003,3.99781084409876E-002},data_coverage=96%]:3.49920343002408E-002)[&rate=8.81217432423141E-001,branch_length=5.35001840508048E-003,reltime=5.14616417877437E-002,reltime_stderr=1.82845920994466E-002,reltime_95%_CI={2.68730320520097E-002,9.85486330818405E-002},data_coverage=97%]:6.07116723777148E-003)[&rate=8.77074763625364E-001,branch_length=5.54161444842263E-003,reltime=5.75328090255152E-002,reltime_stderr=1.95019483474227E-002,reltime_95%_CI={3.08492182002004E-002,1.07296855722097E-001},data_coverage=97%]:6.31829198404538E-003)[&rate=8.26741431752624E-001,branch_length=2.91718618645293E-002,reltime=6.38511010095605E-002,reltime_stderr=1.97226493245856E-002,reltime_95%_CI={3.59846134455730E-002,1.13297398797949E-001},data_coverage=97%]:3.52853513131516E-002)[&rate=9.12095381682926E-001,branch_length=8.32501303473525E-003,reltime=9.91364523227121E-002,reltime_stderr=2.43918350302160E-002,reltime_95%_CI={6.22539891655913E-002,1.57869982484038E-001},data_coverage=97%]:9.12734918071244E-003,(239[&rate=8.88119735263630E-001,branch_length=6.08230399819410E-002]:6.84851800572659E-002,(188[&rate=8.47306003826068E-001,branch_length=2.77834342121795E-002]:3.27903190662187E-002,1[&rate=6.95247912865080E-001,branch_length=2.27974008929686E-002]:3.27903190662187E-002)[&rate=7.67520508337156E-001,branch_length=2.73965378528727E-002,reltime=3.27903190662187E-002,reltime_stderr=1.32144051607679E-002,reltime_95%_CI={1.58852556113738E-002,6.76857238415841E-002},data_coverage=97%]:3.56948609910473E-002)[&rate=8.25621045440219E-001,branch_length=3.28420670245482E-002,reltime=6.84851800572659E-002,reltime_stderr=1.97600251426635E-002,reltime_95%_CI={3.99482105082420E-002,1.17407509067483E-001},data_coverage=97%]:3.97786214461586E-002)[&rate=8.67781736709320E-001,branch_length=5.51827654783523E-003,reltime=1.08263801503425E-001,reltime_stderr=2.37843997685828E-002,reltime_95%_CI={7.12563856483240E-002,1.63465708019494E-001},data_coverage=97%]:6.35906048076197E-003)[&rate=8.69226386726557E-001,branch_length=1.23935738170958E-002,reltime=1.14622861984187E-001,reltime_stderr=2.11968523161867E-002,reltime_95%_CI={8.03740469400415E-002,1.63465708019494E-001},data_coverage=97%]:1.42581656589707E-002)[&rate=9.29331099682385E-001,branch_length=1.48292709851680E-002,reltime=1.28881027643157E-001,reltime_stderr=2.15163514126451E-002,reltime_95%_CI={9.34332644888936E-002,1.77777362026462E-001},data_coverage=97%]:1.59569296564337E-002,((((76[&rate=8.43534700691050E-001,branch_length=4.57626138670423E-002]:5.42510151977768E-002,34[&rate=6.13883539995848E-001,branch_length=3.33038052579798E-002]:5.42510151977768E-002)[&rate=7.19605494816125E-001,branch_length=1.51071805888039E-002,reltime=5.42510151977768E-002,reltime_stderr=1.90228954573950E-002,reltime_95%_CI={2.85431930883659E-002,1.03112943281354E-001},data_coverage=97%]:2.09936982105231E-002,(156[&rate=1.49398986908388E+000,branch_length=1.04933371904738E-001]:7.02370036612656E-002,75[&rate=8.09358830494710E-001,branch_length=5.68469391407346E-002]:7.02370036612656E-002)[&rate=1.09962443280089E+000,branch_length=5.50659999021410E-003,reltime=7.02370036612656E-002,reltime_stderr=1.96718627939465E-002,reltime_95%_CI={4.15672242584352E-002,1.18680926410705E-001},data_coverage=97%]:5.00770974703432E-003)[&rate=8.89548078564382E-001,branch_length=4.12074578703714E-002,reltime=7.52447134082999E-002,reltime_stderr=1.96342857086986E-002,reltime_95%_CI={4.60314352955827E-002,1.22997835273681E-001},data_coverage=97%]:4.63240367365809E-002,(122[&rate=1.48346848236542E+000,branch_length=1.18778677669595E-001]:8.00682178836717E-002,(51[&rate=9.93157446290750E-001,branch_length=5.60503903224443E-002]:5.64365605189606E-002,99[&rate=6.69406420079454E-001,branch_length=3.77789959385949E-002]:5.64365605189606E-002)[&rate=8.15368610320967E-001,branch_length=1.92685116250457E-002,reltime=5.64365605189606E-002,reltime_stderr=2.20288944308148E-002,reltime_95%_CI={2.78818428893737E-002,1.14235109058168E-001},data_coverage=97%]:2.36316573647111E-002)[&rate=1.09980618061604E+000,branch_length=4.56425418797332E-002,reltime=8.00682178836717E-002,reltime_stderr=2.02175797140821E-002,reltime_95%_CI={4.97109690041128E-002,1.28963881483315E-001},data_coverage=97%]:4.15005322612091E-002)[&rate=9.89105896636063E-001,branch_length=1.53119565657028E-002,reltime=1.21568750144881E-001,reltime_stderr=2.63539897413781E-002,reltime_95%_CI={8.04335683062928E-002,1.83741208092495E-001},data_coverage=97%]:1.54806038643370E-002,((30[&rate=3.22517267343801E+000,branch_length=9.98373687069220E-002]:3.09556661970895E-002,74[&rate=2.51714463016137E+000,branch_length=7.79198889410718E-002]:3.09556661970895E-002)[&rate=2.84925009016192E+000,branch_length=2.30817593319119E-001,reltime=3.09556661970895E-002,reltime_stderr=9.99911970125663E-003,reltime_95%_CI={1.70397607800493E-002,5.62363100089753E-002},data_coverage=96%]:8.10099450785669E-002,(204[&rate=2.32100280095559E+000,branch_length=1.51896899829310E-001]:6.54445137966971E-002,47[&rate=2.16408213987370E+000,branch_length=1.41627303460150E-001]:6.54445137966971E-002)[&rate=2.24116949563054E+000,branch_length=1.04261664573098E-001,reltime=6.54445137966971E-002,reltime_stderr=2.16136821567959E-002,reltime_95%_CI={3.55960994131763E-002,1.20321733467816E-001},data_coverage=96%]:4.65210974789593E-002)[&rate=2.52698484116811E+000,branch_length=6.33862376474703E-002,reltime=1.11965611275656E-001,reltime_stderr=2.02025573181878E-002,reltime_95%_CI={7.91641828965246E-002,1.58358207583821E-001},data_coverage=96%]:2.50837427335614E-002)[&rate=1.58096666856368E+000,branch_length=1.23135221967453E-002,reltime=1.37049354009218E-001,reltime_stderr=2.14922052332554E-002,reltime_95%_CI={1.01252464420437E-001,1.85501908934798E-001},data_coverage=97%]:7.78860329037315E-003)[&rate=1.21212272178088E+000,branch_length=2.09518135311871E-002,reltime=1.44837957299591E-001,reltime_stderr=2.15485415650356E-002,reltime_95%_CI={1.08635137413082E-001,1.93105420348021E-001},data_coverage=97%]:1.72852246350141E-002,((37[&rate=1.03603874904943E+000,branch_length=1.50294676223174E-001]:1.45066655432598E-001,(66[&rate=1.34944814580508E+000,branch_length=1.84610851551315E-001]:1.36804702074103E-001,(((257[&rate=1.19524300007258E+000,branch_length=5.76930727897431E-002]:4.82689066459621E-002,48[&rate=8.96902719766335E-001,branch_length=4.32925136509107E-002]:4.82689066459621E-002)[&rate=1.03538239194356E+000,branch_length=8.17285714079264E-002,reltime=4.82689066459621E-002,reltime_stderr=2.40575758312499E-002,reltime_95%_CI={2.03251365410970E-002,1.14630833799597E-001},data_coverage=97%]:7.89356396669157E-002,((258[&rate=2.22292496555096E+000,branch_length=7.62272842113617E-002]:3.42914337607741E-002,44[&rate=2.41459365874652E+000,branch_length=8.27998785080915E-002]:3.42914337607741E-002)[&rate=2.31677804843034E+000,branch_length=1.38305798986598E-001,reltime=3.42914337607741E-002,reltime_stderr=1.47850092736744E-002,reltime_95%_CI={1.59175146279193E-002,7.38747509807231E-002},data_coverage=96%]:5.96974747237021E-002,((((26[&rate=2.31809947269987E+000,branch_length=5.82448269500256E-002]:2.51261119878468E-002,(45[&rate=2.58696083937112E+000,branch_length=3.94553456527406E-002]:1.52516207637422E-002,(221[&rate=2.79925909328599E+000,branch_length=3.19376398432868E-002]:1.14093189586805E-002,(105[&rate=2.45971593275603E+000,branch_length=2.26933942129471E-002]:9.22602236735524E-003,245[&rate=3.55679141225490E+000,branch_length=3.28150371254807E-002]:9.22602236735524E-003)[&rate=2.95781955267951E+000,branch_length=6.45779734712049E-003,reltime=9.22602236735524E-003,reltime_stderr=5.42481977180082E-003,reltime_95%_CI={3.44473459790768E-003,2.47100281033669E-002},data_coverage=97%]:2.18329659132530E-003)[&rate=2.87744735471167E+000,branch_length=1.10560211649787E-002,reltime=1.14093189586805E-002,reltime_stderr=6.20492493310693E-003,reltime_95%_CI={4.51402881445630E-003,2.88373345522355E-002},data_coverage=97%]:3.84230180506170E-003)[&rate=2.72834081888446E+000,branch_length=2.69409774724408E-002,reltime=1.52516207637422E-002,reltime_stderr=7.69223292187257E-003,reltime_95%_CI={6.36899523266779E-003,3.65225482864083E-002},data_coverage=97%]:9.87449122410455E-003)[&rate=2.51486886608459E+000,branch_length=1.61841884474857E-002,reltime=2.51261119878468E-002,reltime_stderr=1.13488328558521E-002,reltime_95%_CI={1.13137643379339E-002,5.58011891328741E-002},data_coverage=97%]:6.43540053548911E-003,(148[&rate=2.37995204904260E+000,branch_length=2.27048364657252E-002]:9.54003946208026E-003,(198[&rate=1.93677274137452E+000,branch_length=1.21884987261502E-002]:6.29320026339283E-003,(135[&rate=1.95797371305968E+000,branch_length=1.00629537875883E-002]:5.13947338540269E-003,199[&rate=1.96147728791462E+000,branch_length=1.00809603173090E-002]:5.13947338540269E-003)[&rate=1.95972471753061E+000,branch_length=2.26098708007669E-003,reltime=5.13947338540269E-003,reltime_stderr=2.91784439944117E-003,reltime_95%_CI={1.97003414550383E-003,1.34079841913132E-002},data_coverage=97%]:1.15372687799014E-003)[&rate=1.94821493000931E+000,branch_length=6.32554060222230E-003,reltime=6.29320026339283E-003,reltime_stderr=3.32848075705427E-003,reltime_95%_CI={2.54064828792337E-003,1.55882928555761E-002},data_coverage=97%]:3.24683919868743E-003)[&rate=2.15329006746677E+000,branch_length=4.74186192137888E-002,reltime=9.54003946208026E-003,reltime_stderr=4.70937082822814E-003,reltime_95%_CI={4.04412091184467E-003,2.25048545584990E-002},data_coverage=96%]:2.20214730612557E-002)[&rate=2.32706728530169E+000,branch_length=3.25518362259182E-002,reltime=3.15615125233359E-002,reltime_stderr=1.33152195036734E-002,reltime_95%_CI={1.48561172666430E-002,6.70517777210426E-002},data_coverage=97%]:1.39883519619408E-002,(((157[&rate=2.42921938224217E+000,branch_length=5.99455556622134E-002]:2.46768801946918E-002,(159[&rate=2.72909275072315E+000,branch_length=5.41380016570405E-002]:1.98373623038994E-002,123[&rate=2.11870787633225E+000,branch_length=4.20295757589282E-002]:1.98373623038994E-002)[&rate=2.40461021918280E+000,branch_length=1.16371541761174E-002,reltime=1.98373623038994E-002,reltime_stderr=1.02144477218674E-002,reltime_95%_CI={8.16361507527783E-003,4.82042501449981E-002},data_coverage=97%]:4.83951789079240E-003)[&rate=2.41688347902346E+000,branch_length=3.02781841474826E-003,reltime=2.46768801946918E-002,reltime_stderr=1.12554962372471E-002,reltime_95%_CI={1.10394706513723E-002,5.51610159013808E-002},data_coverage=97%]:1.25277798496585E-003,(158[&rate=2.01410911978214E+000,branch_length=4.20479487044449E-002]:2.08766984328004E-002,(160[&rate=2.12079148323666E+000,branch_length=3.91743831848486E-002]:1.84715864310537E-002,162[&rate=2.46866074579283E+000,branch_length=4.56000803348618E-002]:1.84715864310537E-002)[&rate=2.28812470916209E+000,branch_length=5.50319619949889E-003,reltime=1.84715864310537E-002,reltime_stderr=9.43488687908952E-003,reltime_95%_CI={7.64509596072182E-003,4.46298525267527E-002},data_coverage=97%]:2.40511200174668E-003)[&rate=2.14674936681538E+000,branch_length=1.08474381371094E-002,reltime=2.08766984328004E-002,reltime_stderr=9.81197272321448E-003,reltime_95%_CI={9.15313919583838E-003,4.76160722708391E-002},data_coverage=97%]:5.05295974685726E-003)[&rate=2.27781541795206E+000,branch_length=1.62859703024781E-002,reltime=2.59296581796577E-002,reltime_stderr=1.13419237107648E-002,reltime_95%_CI={1.19242970615725E-002,5.63846380077707E-002},data_coverage=97%]:7.14982003112462E-003,(124[&rate=2.14136410447606E+000,branch_length=5.49328170272230E-002]:2.56531885037195E-002,161[&rate=1.90702361214040E+000,branch_length=4.89212362032819E-002]:2.56531885037195E-002)[&rate=2.02079981923637E+000,branch_length=1.50070448976293E-002,reltime=2.56531885037195E-002,reltime_stderr=1.17412104168338E-002,reltime_95%_CI={1.14498707596940E-002,5.74754155936826E-002},data_coverage=97%]:7.42628970706274E-003)[&rate=2.14546241748751E+000,branch_length=2.67547450834799E-002,reltime=3.30794782107823E-002,reltime_stderr=1.38896820882164E-002,reltime_95%_CI={1.56176272275521E-002,7.00651810133602E-002},data_coverage=97%]:1.24703862744944E-002)[&rate=2.23442059683925E+000,branch_length=4.43965578403665E-002,reltime=4.55498644852767E-002,reltime_stderr=1.82547802931912E-002,reltime_95%_CI={2.21425904288175E-002,9.37013291781269E-002},data_coverage=97%]:1.98693826503250E-002,(((14[&rate=1.50702921419189E+000,branch_length=3.25657718570619E-002]:2.16092505376709E-002,(259[&rate=1.63940063614554E+000,branch_length=2.46495563745823E-002]:1.50357123396858E-002,(12[&rate=1.81391457391056E+000,branch_length=1.26281359465939E-002]:6.96181403921867E-003,13[&rate=1.42411010492902E+000,branch_length=9.91438972188801E-003]:6.96181403921867E-003)[&rate=1.60723802661088E+000,branch_length=1.29766763714998E-002,reltime=6.96181403921867E-003,reltime_stderr=4.15913197713225E-003,reltime_95%_CI={2.56819025761658E-003,1.88719876079750E-002},data_coverage=97%]:8.07389830046716E-003)[&rate=1.62323967523689E+000,branch_length=1.06704280096547E-002,reltime=1.50357123396858E-002,reltime_stderr=7.86598588131742E-003,reltime_95%_CI={6.11791277581375E-003,3.69525774305781E-002},data_coverage=97%]:6.57353819798511E-003)[&rate=1.56405550164224E+000,branch_length=2.66855337120454E-002,reltime=2.16092505376709E-002,reltime_stderr=1.05579100503262E-002,reltime_95%_CI={9.22606855975750E-003,5.06130759570364E-002},data_coverage=97%]:1.70617562382063E-002,(15[&rate=1.93492610666558E+000,branch_length=2.16031448266485E-002]:1.11648422915110E-002,32[&rate=1.84119600826033E+000,branch_length=2.05566630599861E-002]:1.11648422915110E-002)[&rate=1.88747933071368E+000,branch_length=5.19173169314522E-002,reltime=1.11648422915110E-002,reltime_stderr=5.62393317871798E-003,reltime_95%_CI={4.66652138908425E-003,2.67123394496588E-002},data_coverage=97%]:2.75061644843663E-002)[&rate=1.71817415631790E+000,branch_length=1.27778665213282E-002,reltime=3.86710067758773E-002,reltime_stderr=1.66125958841636E-002,reltime_95%_CI={1.79927013077975E-002,8.31140771737186E-002},data_coverage=97%]:7.43688669413554E-003,(274[&rate=1.49260179112374E+000,branch_length=2.93058771290196E-002]:1.96340894827388E-002,(273[&rate=1.43411103602212E+000,branch_length=2.28321226596367E-002]:1.59207495696899E-002,(272[&rate=1.21852609877614E+000,branch_length=1.13003732539231E-002]:9.27380485758410E-003,(270[&rate=2.38104206794608E+000,branch_length=1.49445740468292E-002]:6.27648467367088E-003,31[&rate=1.64053222192457E+000,branch_length=1.02967753475728E-002]:6.27648467367088E-003)[&rate=1.97640487608776E+000,branch_length=5.92391822668233E-003,reltime=6.27648467367088E-003,reltime_stderr=3.66811836194012E-003,reltime_95%_CI={2.35424735922879E-003,1.67332713380341E-002},data_coverage=97%]:2.99732018391322E-003)[&rate=1.55187013737018E+000,branch_length=1.03151950034676E-002,reltime=9.27380485758410E-003,reltime_stderr=5.06892300991399E-003,reltime_95%_CI={3.65569645366269E-003,2.35258746525255E-002},data_coverage=97%]:6.64694471210581E-003)[&rate=1.49182910900536E+000,branch_length=5.53966857391773E-003,reltime=1.59207495696899E-002,reltime_stderr=7.83489891927698E-003,reltime_95%_CI={6.76348386872692E-003,3.74762876322927E-002},data_coverage=97%]:3.71333991304885E-003)[&rate=1.49221540005186E+000,branch_length=3.95046180077646E-002,reltime=1.96340894827388E-002,reltime_stderr=9.14975597995744E-003,reltime_95%_CI={8.65799330050036E-003,4.45250367419335E-002},data_coverage=97%]:2.64738039872740E-002)[&rate=1.60121389452774E+000,branch_length=3.09216078114801E-002,reltime=4.61078934700128E-002,reltime_stderr=1.90790601966118E-002,reltime_95%_CI={2.19710316296454E-002,9.67609476003638E-002},data_coverage=97%]:1.93113536655889E-002)[&rate=1.89150345119378E+000,branch_length=5.40396130408335E-002,reltime=6.54192471356017E-002,reltime_stderr=2.56345084121008E-002,reltime_95%_CI={3.22433376554696E-002,1.32730610630905E-001},data_coverage=97%]:2.85696613488745E-002)[&rate=2.09336897709314E+000,branch_length=6.95325857843374E-002,reltime=9.39889084844762E-002,reltime_stderr=3.37375044621973E-002,reltime_95%_CI={4.87940188593190E-002,1.81045036351132E-001},data_coverage=96%]:3.32156378284017E-002)[&rate=1.47222191897931E+000,branch_length=5.91951892841691E-003,reltime=1.27204546312878E-001,reltime_stderr=4.21730728628195E-002,reltime_95%_CI={6.90429318156439E-002,2.00483666208589E-001},data_coverage=96%]:4.02080613805894E-003,((205[&rate=1.22694925815406E+000,branch_length=1.27042268863457E-001]:1.03543213396283E-001,(217[&rate=8.87469070459274E-001,branch_length=6.18289307977057E-002]:6.96688288705190E-002,(256[&rate=1.40191573279226E+000,branch_length=7.47617036721980E-002]:5.33282435765891E-002,(60[&rate=9.95037803296430E-001,branch_length=4.09636389255749E-002]:4.11679222536749E-002,(255[&rate=1.19947980292895E+000,branch_length=1.95646189556818E-002]:1.63109198736885E-002,(206[&rate=1.64007997199623E+000,branch_length=1.98824826841109E-002]:1.21228738985886E-002,254[&rate=1.28747225260547E+000,branch_length=1.56078637662679E-002]:1.21228738985886E-002)[&rate=1.45311990420581E+000,branch_length=6.08573296614674E-003,reltime=1.21228738985886E-002,reltime_stderr=7.35179461279351E-003,reltime_95%_CI={4.42126226784098E-003,3.32402971499915E-002},data_coverage=97%]:4.18804597509993E-003)[&rate=1.32022269952040E+000,branch_length=3.28167787840906E-002,reltime=1.63109198736885E-002,reltime_stderr=9.27392955675795E-003,reltime_95%_CI={6.24533938571804E-003,4.25991432482092E-002},data_coverage=97%]:2.48570023799864E-002)[&rate=1.14615509194562E+000,branch_length=1.39376142039529E-002,reltime=4.11679222536749E-002,reltime_stderr=2.14168750624747E-002,reltime_95%_CI={1.68181003473147E-002,1.00772250592215E-001},data_coverage=97%]:1.21603213229142E-002)[&rate=1.26760122105436E+000,branch_length=2.07133458713284E-002,reltime=5.33282435765891E-002,reltime_stderr=2.47321534470994E-002,reltime_95%_CI={2.35925114637437E-002,1.20542552976373E-001},data_coverage=97%]:1.63405852939299E-002)[&rate=1.06063984337859E+000,branch_length=3.59285218979530E-002,reltime=6.96688288705190E-002,reltime_stderr=2.99958878563945E-002,reltime_95%_CI={3.23685663188045E-002,1.49952446715871E-001},data_coverage=97%]:3.38743845257645E-002)[&rate=1.14076784185127E+000,branch_length=1.40276120537553E-002,reltime=1.03543213396283E-001,reltime_stderr=3.77350362433338E-002,reltime_95%_CI={5.32846742636381E-002,2.00483666208589E-001},data_coverage=97%]:1.22966405074944E-002,((253[&rate=1.33805613538450E+000,branch_length=8.60691731270083E-002]:6.43240375728151E-002,(251[&rate=1.15711968786034E+000,branch_length=4.43419690194198E-002]:3.83209874351148E-002,250[&rate=1.31318848587324E+000,branch_length=5.03226794670860E-002]:3.83209874351148E-002)[&rate=1.23268659880581E+000,branch_length=3.20536114328188E-002,reltime=3.83209874351148E-002,reltime_stderr=1.82400092878142E-002,reltime_95%_CI={1.66575056220710E-002,8.81583420303026E-002},data_coverage=97%]:2.60030501377003E-002)[&rate=1.28429119226846E+000,branch_length=9.23780071230360E-003,reltime=6.43240375728151E-002,reltime_stderr=2.51759286845659E-002,reltime_95%_CI={3.17260937510542E-002,1.30415734194552E-001},data_coverage=97%]:7.19291759370141E-003,(252[&rate=1.26633460837166E+000,branch_length=6.76772492741136E-002]:5.34434175822912E-002,46[&rate=1.34670483344740E+000,branch_length=7.19725087740194E-002]:5.34434175822912E-002)[&rate=1.30590158046303E+000,branch_length=2.36022612957977E-002,reltime=5.34434175822912E-002,reltime_stderr=2.18431405929471E-002,reltime_95%_CI={2.56645486160787E-002,1.11289659740431E-001},data_coverage=97%]:1.80735375842253E-002)[&rate=1.29505131085920E+000,branch_length=5.74004281107700E-002,reltime=7.15169551665165E-002,reltime_stderr=2.60779210047989E-002,reltime_95%_CI={3.67916862701388E-002,1.39017136608950E-001},data_coverage=97%]:4.43228987372613E-002)[&rate=1.21546406321845E+000,branch_length=1.87005205787713E-002,reltime=1.15839853903778E-001,reltime_stderr=3.90870689049035E-002,reltime_95%_CI={6.22708203856713E-002,2.00483666208589E-001},data_coverage=97%]:1.53854985471589E-002)[&rate=1.33769683994613E+000,branch_length=7.46347835986437E-003,reltime=1.31225352450937E-001,reltime_stderr=4.21245980747803E-002,reltime_95%_CI={7.24743064275591E-002,2.00483666208589E-001},data_coverage=97%]:5.57934962316642E-003)[&rate=1.34355964523895E+000,branch_length=1.11004271233204E-002,reltime=1.36804702074103E-001,reltime_stderr=3.61981852910972E-002,reltime_95%_CI={8.31593376126046E-002,2.00483666208589E-001},data_coverage=96%]:8.26195335849508E-003)[&rate=1.17982195865591E+000,branch_length=5.41633231960648E-003,reltime=1.45066655432598E-001,reltime_stderr=2.70640508850170E-002,reltime_95%_CI={1.01415341410525E-001,2.00483666208589E-001},data_coverage=97%]:4.59080480734309E-003,((((189[&rate=1.95989596100392E+000,branch_length=2.53994818919161E-001]:1.29596072430833E-001,(94[&rate=1.69201614169316E+000,branch_length=1.81691807986057E-001]:1.07381840816390E-001,(95[&rate=1.82951984862258E+000,branch_length=1.64700313654604E-001]:9.00237916405252E-002,((((265[&rate=1.95595455336145E+000,branch_length=3.69328018809588E-002]:1.88822392716063E-002,(52[&rate=2.68601480096885E+000,branch_length=4.30161459428520E-002]:1.60148581189262E-002,147[&rate=2.26087950153066E+000,branch_length=3.62076644410021E-002]:1.60148581189262E-002)[&rate=2.46429620872135E+000,branch_length=7.06607650350852E-003,reltime=1.60148581189262E-002,reltime_stderr=9.23980616534321E-003,reltime_95%_CI={6.06534977896877E-003,4.22853899471142E-002},data_coverage=97%]:2.86738115268006E-003)[&rate=2.19546154379436E+000,branch_length=1.68221711614346E-002,reltime=1.88822392716063E-002,reltime_stderr=1.00412354242215E-002,reltime_95%_CI={7.59322652858785E-003,4.69548693915362E-002},data_coverage=97%]:7.66224815414496E-003,266[&rate=1.16880003603360E+000,branch_length=3.10251978597116E-002]:2.65444874257512E-002)[&rate=1.60189123585131E+000,branch_length=3.75262509044313E-002,reltime=2.65444874257512E-002,reltime_stderr=1.39069942680410E-002,reltime_95%_CI={1.07895316054349E-002,6.53049491361554E-002},data_coverage=97%]:2.34262165024508E-002,(262[&rate=2.46508091807261E+000,branch_length=7.54731477628067E-002]:3.06169047877817E-002,(260[&rate=2.76384890205162E+000,branch_length=6.49163048216921E-002]:2.34876460769995E-002,144[&rate=3.15545391821255E+000,branch_length=7.41141848432576E-002]:2.34876460769995E-002)[&rate=2.95316742622667E+000,branch_length=2.10538945978248E-002,reltime=2.34876460769995E-002,reltime_stderr=1.25279380750300E-002,reltime_95%_CI={9.42473061971338E-003,5.85342478738311E-002},data_coverage=97%]:7.12925871078224E-003)[&rate=2.69810983287652E+000,branch_length=5.22186757642854E-002,reltime=3.06169047877817E-002,reltime_stderr=1.47763611498013E-002,reltime_95%_CI={1.31830004170847E-002,7.11063361243058E-002},data_coverage=97%]:1.93537991404204E-002)[&rate=2.07896091705668E+000,branch_length=2.90716482252599E-002,reltime=4.99707039282021E-002,reltime_stderr=2.28199147474843E-002,reltime_95%_CI={2.23369568626979E-002,1.11791022672836E-001},data_coverage=97%]:1.39837396589535E-002,((78[&rate=1.81756503984817E+000,branch_length=2.71832410120867E-002]:1.49558560030168E-002,215[&rate=1.90369372107404E+000,branch_length=2.84713691662306E-002]:1.49558560030168E-002)[&rate=1.86013095076735E+000,branch_length=4.60784878833303E-002,reltime=1.49558560030168E-002,reltime_stderr=7.88502535257515E-003,reltime_95%_CI={6.05171740932468E-003,3.69610167914193E-002},data_coverage=97%]:2.47716365690930E-002,(244[&rate=1.29542487625332E+000,branch_length=2.26410014663388E-002]:1.74776645727400E-002,(16[&rate=1.81300001527396E+000,branch_length=2.53792942547929E-002]:1.39985074688253E-002,(243[&rate=2.01177325692321E+000,branch_length=2.02575196373338E-002]:1.00694845045885E-002,(242[&rate=2.17369911976682E+000,branch_length=9.19829962453525E-003]:4.23163424086125E-003,223[&rate=1.96527889076596E+000,branch_length=8.31634144700707E-003]:4.23163424086125E-003)[&rate=2.06686356466853E+000,branch_length=1.20660400060883E-002,reltime=4.23163424086125E-003,reltime_stderr=2.78992125799593E-003,reltime_95%_CI={1.44611902015199E-003,1.23826103514960E-002},data_coverage=97%]:5.83785026372720E-003)[&rate=2.03913237557279E+000,branch_length=8.01179793074429E-003,reltime=1.00694845045885E-002,reltime_stderr=5.92431842630220E-003,reltime_95%_CI={3.75795727602895E-003,2.69812855071336E-002},data_coverage=97%]:3.92902296423683E-003)[&rate=1.92274466013018E+000,branch_length=6.68953074330606E-003,reltime=1.39985074688253E-002,reltime_stderr=7.57237601142652E-003,reltime_95%_CI={5.56007748570419E-003,3.52437914504961E-002},data_coverage=97%]:3.47915710391476E-003)[&rate=1.57821774904981E+000,branch_length=3.51150734619109E-002,reltime=1.74776645727400E-002,reltime_stderr=9.15396510666696E-003,reltime_95%_CI={7.10570186410253E-003,4.29892450822370E-002},data_coverage=97%]:2.22498279993698E-002)[&rate=1.71338602832460E+000,branch_length=4.15101193780839E-002,reltime=3.97274925721098E-002,reltime_stderr=1.87540058671816E-002,reltime_95%_CI={1.73662033460142E-002,9.08819063453660E-002},data_coverage=97%]:2.42269510150458E-002)[&rate=1.88734273218136E+000,branch_length=4.92017945812333E-002,reltime=6.39544435871556E-002,reltime_stderr=2.83414620031007E-002,reltime_95%_CI={2.91613699043650E-002,1.40259900956520E-001},data_coverage=97%]:2.60693480533695E-002)[&rate=1.85820639049578E+000,branch_length=3.22548379051317E-002,reltime=9.00237916405252E-002,reltime_stderr=3.61735667951919E-002,reltime_95%_CI={4.36909087952639E-002,1.85491290632416E-001},data_coverage=96%]:1.73580491758646E-002)[&rate=1.77316530738571E+000,branch_length=3.93895048289615E-002,reltime=1.07381840816390E-001,reltime_stderr=3.80786047305258E-002,reltime_95%_CI={5.61371220597691E-002,2.00061979266176E-001},data_coverage=96%]:2.22142316144432E-002)[&rate=1.86419406826044E+000,branch_length=4.52588876365922E-003,reltime=1.29596072430833E-001,reltime_stderr=3.64761690933599E-002,reltime_95%_CI={7.65149269569060E-002,2.00061979266176E-001},data_coverage=97%]:2.42779914426106E-003,(42[&rate=1.94287779567247E+000,branch_length=1.89579448861163E-001]:9.75766202503464E-002,2[&rate=1.68750680404296E+000,branch_length=1.64661210587976E-001]:9.75766202503464E-002)[&rate=1.81069586060754E+000,branch_length=6.23734953830282E-002,reltime=9.75766202503464E-002,reltime_stderr=3.08919560918206E-002,reltime_95%_CI={5.42876726952363E-002,1.75384140575173E-001},data_coverage=97%]:3.44472513247476E-002)[&rate=1.83725025044722E+000,branch_length=5.97739847938632E-003,reltime=1.32023871575094E-001,reltime_stderr=3.18222534956855E-002,reltime_95%_CI={8.36438660752770E-002,2.00061979266176E-001},data_coverage=97%]:3.25344817774895E-003,(33[&rate=1.08333659414696E+000,branch_length=1.21716767619515E-001]:1.12353601158795E-001,23[&rate=1.57005619614844E+000,branch_length=1.76401467658957E-001]:1.12353601158795E-001)[&rate=1.30418531357886E+000,branch_length=2.98967771229717E-002,reltime=1.12353601158795E-001,reltime_stderr=3.26149324824450E-002,reltime_95%_CI={6.53410138600524E-002,1.93191549191237E-001},data_coverage=96%]:2.29237185940477E-002)[&rate=1.54793888574528E+000,branch_length=1.00905317144882E-002,reltime=1.35277319752843E-001,reltime_stderr=2.77016733994661E-002,reltime_95%_CI={9.14714195402687E-002,2.00061979266176E-001},data_coverage=97%]:6.51868869463146E-003,(((96[&rate=1.12692026072660E+000,branch_length=1.48573644747119E-002]:1.31840423785906E-002,49[&rate=1.36791947876438E+000,branch_length=1.80347083785292E-002]:1.31840423785906E-002)[&rate=1.24158615313725E+000,branch_length=1.97894279262266E-002,reltime=1.31840423785906E-002,reltime_stderr=5.25029343829777E-003,reltime_95%_CI={6.43410453300150E-003,2.70152548111288E-002},data_coverage=97%]:1.59388278261823E-002,216[&rate=8.22152888469618E-001,branch_length=2.39434518593798E-002]:2.91228702047729E-002)[&rate=1.01033343114324E+000,branch_length=7.78613522608804E-002,reltime=2.91228702047729E-002,reltime_stderr=9.72453000190181E-003,reltime_95%_CI={1.57454979472524E-002,5.38656555547075E-002},data_coverage=97%]:7.70650063244732E-002,(63[&rate=9.03919334512905E-001,branch_length=3.70028519723384E-002]:4.09360111677201E-002,24[&rate=7.84291545470937E-001,branch_length=3.21057674641468E-002]:4.09360111677201E-002)[&rate=8.41983546066185E-001,branch_length=5.49409969845309E-002,reltime=4.09360111677201E-002,reltime_stderr=1.55067349308692E-002,reltime_95%_CI={2.05921272759279E-002,8.13785282049350E-002},data_coverage=97%]:6.52518653615260E-002)[&rate=9.22325390013308E-001,branch_length=3.28422841591252E-002,reltime=1.06187876529246E-001,reltime_stderr=2.72576033566651E-002,reltime_95%_CI={6.54451329108481E-002,1.72294938068975E-001},data_coverage=97%]:3.56081319182282E-002)[&rate=1.19486540518662E+000,branch_length=9.39337678136115E-003,reltime=1.41796008447474E-001,reltime_stderr=2.60654876839990E-002,reltime_95%_CI={9.96303494024427E-002,2.00483666208589E-001},data_coverage=97%]:7.86145179246700E-003)[&rate=1.18731985693724E+000,branch_length=1.48007988991275E-002,reltime=1.49657460239941E-001,reltime_stderr=2.26446573789496E-002,reltime_95%_CI={1.11716609283106E-001,2.00483666208589E-001},data_coverage=97%]:1.24657216946637E-002)[&rate=1.19965719129059E+000,branch_length=5.78327978128550E-003,reltime=1.62123181934605E-001,reltime_stderr=2.17889616743278E-002,reltime_95%_CI={1.24947324973353E-001,2.10360054736718E-001},data_coverage=97%]:4.82077698801925E-003,(((((73[&rate=1.31881423200055E+000,branch_length=9.12686284015425E-002]:6.92050678457527E-002,61[&rate=1.53877587866517E+000,branch_length=1.06491089082431E-001]:6.92050678457527E-002)[&rate=1.42455590576249E+000,branch_length=7.45069065344241E-002,reltime=6.92050678457527E-002,reltime_stderr=2.26180321962520E-002,reltime_95%_CI={3.78550876305822E-002,1.26517773839890E-001},data_coverage=97%]:5.23018480587777E-002,(209[&rate=1.31441930928813E+000,branch_length=5.60659336964440E-002]:4.26545268319351E-002,72[&rate=9.65089092224039E-001,branch_length=4.11654185794782E-002]:4.26545268319351E-002)[&rate=1.12629114264591E+000,branch_length=8.88107473889331E-002,reltime=4.26545268319351E-002,reltime_stderr=1.67433141763758E-002,reltime_95%_CI={2.10009201144822E-002,8.66347116858755E-002},data_coverage=97%]:7.88523890725953E-002)[&rate=1.26667466180713E+000,branch_length=1.19283013745635E-002,reltime=1.21506915904530E-001,reltime_stderr=2.96478551427101E-002,reltime_95%_CI={7.65775419036944E-002,1.91226517955002E-001},data_coverage=96%]:9.41702059275878E-003,(41[&rate=1.92526451331686E+000,branch_length=2.29359175660454E-001]:1.19131253951860E-001,29[&rate=9.01883122194920E-001,branch_length=1.07442467265099E-001]:1.19131253951860E-001)[&rate=1.31771148978875E+000,branch_length=1.55393532855439E-002,reltime=1.19131253951860E-001,reltime_stderr=2.98840623937085E-002,reltime_95%_CI={7.41789764940013E-002,1.91226517955002E-001},data_coverage=96%]:1.17926825454296E-002)[&rate=1.29194108057896E+000,branch_length=1.49597485656186E-002,reltime=1.30923936497289E-001,reltime_stderr=2.59155522714336E-002,reltime_95%_CI={8.96375530509826E-002,1.91226517955002E-001},data_coverage=97%]:1.15792808128019E-002,((71[&rate=9.95517760225116E-001,branch_length=3.39312094007337E-002]:3.40839819804529E-002,207[&rate=1.43825649739301E+000,branch_length=4.90215085404126E-002]:3.40839819804529E-002)[&rate=1.19658258675024E+000,branch_length=1.09191400429313E-001,reltime=3.40839819804529E-002,reltime_stderr=1.20072068551104E-002,reltime_95%_CI={1.78853493033135E-002,6.49536001753464E-002},data_coverage=97%]:9.12527071999788E-002,((5[&rate=1.73257056452315E+000,branch_length=1.25740957891685E-002]:7.25747975097872E-003,79[&rate=1.88695477617164E+000,branch_length=1.36945360790783E-002]:7.25747975097872E-003)[&rate=1.80811567710181E+000,branch_length=1.95512075929520E-001,reltime=7.25747975097872E-003,reltime_stderr=2.53446225858568E-003,reltime_95%_CI={3.82719819142652E-003,1.37622902450824E-002},data_coverage=96%]:1.08130291886469E-001,(53[&rate=7.93516002814812E-001,branch_length=4.15082023922216E-002]:5.23092190264355E-002,208[&rate=7.93986594331414E-001,branch_length=4.15328186669355E-002]:5.23092190264355E-002)[&rate=7.93751263698150E-001,branch_length=5.00686808472413E-002,reltime=5.23092190264355E-002,reltime_stderr=2.48762547078061E-002,reltime_95%_CI={2.27515907276353E-002,1.20266509182235E-001},data_coverage=97%]:6.30785526110124E-002)[&rate=1.19799586961391E+000,branch_length=1.19187621236239E-002,reltime=1.15387771637448E-001,reltime_stderr=3.02825548684020E-002,reltime_95%_CI={7.04044766373888E-002,1.85976738251586E-001},data_coverage=96%]:9.94891754298376E-003)[&rate=1.19728901965178E+000,branch_length=2.05532956351847E-002,reltime=1.25336689180432E-001,reltime_stderr=2.58948084833576E-002,reltime_95%_CI={8.44690889968236E-002,1.85976738251586E-001},data_coverage=97%]:1.71665281296594E-002)[&rate=1.24371494717007E+000,branch_length=2.37535891051744E-002,reltime=1.42503217310091E-001,reltime_stderr=2.39667033299644E-002,reltime_95%_CI={1.03071231107185E-001,1.97020708160645E-001},data_coverage=97%]:1.90989013674097E-002,(22[&rate=9.12041569832019E-001,branch_length=1.16583378334340E-001]:1.27826825213474E-001,(67[&rate=1.01294732345660E+000,branch_length=1.15841969065909E-001]:1.14361296370879E-001,(126[&rate=8.14644185651707E-001,branch_length=6.23634864431579E-002]:7.65530369473732E-002,125[&rate=1.34698798572472E+000,branch_length=1.03116021038852E-001]:7.65530369473732E-002)[&rate=1.04752848682666E+000,branch_length=3.96052287834549E-002,reltime=7.65530369473732E-002,reltime_stderr=2.84352189415438E-002,reltime_95%_CI={3.89587762294276E-002,1.50424834480279E-001},data_coverage=97%]:3.78082594235060E-002)[&rate=1.03009280017657E+000,branch_length=1.38707443113271E-002,reltime=1.14361296370879E-001,reltime_stderr=3.12222512617485E-002,reltime_95%_CI={6.85094725991357E-002,1.90831608039902E-001},data_coverage=96%]:1.34655288425951E-002)[&rate=9.69271610306262E-001,branch_length=3.27374330844434E-002,reltime=1.27826825213474E-001,reltime_stderr=2.68387669069847E-002,reltime_95%_CI={8.56236417645216E-002,1.90831608039902E-001},data_coverage=97%]:3.37752934640264E-002)[&rate=1.09795154246693E+000,branch_length=5.86508173674527E-003,reltime=1.61602118677501E-001,reltime_stderr=2.21365804275988E-002,reltime_95%_CI={1.23937545727609E-001,2.10712941003796E-001},data_coverage=97%]:5.34184024512352E-003)[&rate=1.14767829273235E+000,branch_length=1.09475849469378E-001,reltime=1.66943958922624E-001,reltime_stderr=2.06519729879815E-002,reltime_95%_CI={1.31303223702109E-001,2.12258957814996E-001},data_coverage=97%]:9.53889693328094E-002,((102[&rate=7.14825968371477E-001,branch_length=9.25632250424004E-002]:1.29490574122928E-001,(117[&rate=1.04517159099666E+000,branch_length=1.31744977122982E-001]:1.26051050619691E-001,((((((119[&rate=7.02492819660834E-001,branch_length=4.27456268471650E-002]:6.08484893380159E-002,(184[&rate=7.29204489093723E-001,branch_length=3.61246112047219E-002]:4.95397542733433E-002,(20[&rate=8.43948122200957E-001,branch_length=2.36567483567539E-002]:2.80310456702703E-002,153[&rate=8.40112149362846E-001,branch_length=2.35492220269389E-002]:2.80310456702703E-002)[&rate=8.42027951372746E-001,branch_length=1.81109338417189E-002,reltime=2.80310456702703E-002,reltime_stderr=1.50534653476265E-002,reltime_95%_CI={1.11925331026534E-002,7.02021172653494E-002},data_coverage=97%]:2.15087086030730E-002)[&rate=7.83588260557415E-001,branch_length=8.86139203843139E-003,reltime=4.95397542733433E-002,reltime_stderr=2.33302177806533E-002,reltime_95%_CI={2.16906233741885E-002,1.13145077074349E-001},data_coverage=97%]:1.13087350646725E-002)[&rate=7.41933370736286E-001,branch_length=2.22666203407215E-002,reltime=6.08484893380159E-002,reltime_stderr=2.61944727780957E-002,reltime_95%_CI={2.82732418950656E-002,1.30955575185201E-001},data_coverage=97%]:3.00116172408102E-002,(154[&rate=9.07867762865751E-001,branch_length=5.80385366126312E-002]:6.39284034377742E-002,50[&rate=6.02338785929263E-001,branch_length=3.85065569131050E-002]:6.39284034377742E-002)[&rate=7.39488989822615E-001,branch_length=1.99156979499790E-002,reltime=6.39284034377742E-002,reltime_stderr=2.80452780388308E-002,reltime_95%_CI={2.93426047433983E-002,1.39280094655615E-001},data_coverage=97%]:2.69317031410519E-002)[&rate=7.40710171957603E-001,branch_length=6.79009336086672E-003,reltime=9.08601065788260E-002,reltime_stderr=3.56247975582341E-002,reltime_95%_CI={4.47661214607996E-002,1.84415327889077E-001},data_coverage=97%]:9.16700433979645E-003,((114[&rate=7.43693590993178E-001,branch_length=6.10338839900938E-002]:8.20685894423066E-002,(152[&rate=1.00913091368223E+000,branch_length=7.44523903750396E-002]:7.37787232217171E-002,151[&rate=8.30666209174891E-001,branch_length=6.12854923363472E-002]:7.37787232217171E-002)[&rate=9.15560457113352E-001,branch_length=7.58987370633150E-003,reltime=7.37787232217171E-002,reltime_stderr=3.46193287240224E-002,reltime_95%_CI={3.23830830068965E-002,1.68090851605064E-001},data_coverage=97%]:8.28986622058954E-003)[&rate=8.25164495189889E-001,branch_length=8.79617554689330E-003,reltime=8.20685894423066E-002,reltime_stderr=3.51234873700971E-002,reltime_95%_CI={3.82769602212282E-002,1.75961030712009E-001},data_coverage=97%]:1.06599055075305E-002,(113[&rate=1.16658932026975E+000,branch_length=9.60647764706755E-002]:8.23466963065138E-002,155[&rate=9.78812816418773E-001,branch_length=8.06020017345601E-002]:8.23466963065138E-002)[&rate=1.06858438046665E+000,branch_length=1.10938278714052E-002,reltime=8.23466963065138E-002,reltime_stderr=3.43963108315188E-002,reltime_95%_CI={3.90069084269279E-002,1.73840446886481E-001},data_coverage=97%]:1.03817986433233E-002)[&rate=9.39019643498240E-001,branch_length=6.85354376503944E-003,reltime=9.27284949498371E-002,reltime_stderr=3.58887758753860E-002,reltime_95%_CI={4.60477361185428E-002,1.86731737550056E-001},data_coverage=97%]:7.29861596878541E-003)[&rate=8.33991247919998E-001,branch_length=5.03778929020636E-003,reltime=1.00027110918622E-001,reltime_stderr=3.76490682466601E-002,reltime_95%_CI={5.05087024501199E-002,1.88399884978032E-001},data_coverage=97%]:6.04057812689375E-003,(150[&rate=1.55470982469697E+000,branch_length=1.38341458577358E-001]:8.89821729944513E-002,55[&rate=6.10844765217668E-001,branch_length=5.43542945713535E-002]:8.89821729944513E-002)[&rate=9.74518526170037E-001,branch_length=1.66501519209383E-002,reltime=8.89821729944513E-002,reltime_stderr=3.43658202237936E-002,reltime_95%_CI={4.42440389014649E-002,1.78958054178736E-001},data_coverage=97%]:1.70855160510650E-002)[&rate=9.01520893691157E-001,branch_length=1.15056918761623E-002,reltime=1.06067689045516E-001,reltime_stderr=3.80231897842403E-002,reltime_95%_CI={5.51063251913325E-002,1.88399884978032E-001},data_coverage=97%]:1.27625349081526E-002,(115[&rate=1.02293616148755E+000,branch_length=7.87898125381948E-002]:7.70231960747372E-002,(141[&rate=8.63854526380311E-001,branch_length=4.76650515613953E-002]:5.51771740562841E-002,(116[&rate=1.14405512441618E+000,branch_length=3.31169658287516E-002]:2.89470018725289E-002,43[&rate=9.03677184555651E-001,branch_length=2.61587451534941E-002]:2.89470018725289E-002)[&rate=1.01678734935525E+000,branch_length=2.66705072478523E-002,reltime=2.89470018725289E-002,reltime_stderr=1.44730052651804E-002,reltime_95%_CI={1.21621673914018E-002,6.88963480309089E-002},data_coverage=96%]:2.62301721837552E-002)[&rate=9.37206676302925E-001,branch_length=2.04742376863549E-002,reltime=5.51771740562841E-002,reltime_stderr=2.39678127251407E-002,reltime_95%_CI={2.54892921913905E-002,1.19443118073942E-001},data_coverage=97%]:2.18460220184531E-002)[&rate=9.79133596593346E-001,branch_length=4.09346655699767E-002,reltime=7.70231960747372E-002,reltime_stderr=2.89749611544493E-002,reltime_95%_CI={3.89053757875205E-002,1.52487223512962E-001},data_coverage=97%]:4.18070278789317E-002)[&rate=9.39526154528903E-001,branch_length=5.17969438310132E-003,reltime=1.18830223953669E-001,reltime_stderr=4.05013746139204E-002,reltime_95%_CI={6.35236886449615E-002,1.88399884978032E-001},data_coverage=97%]:5.51309227330507E-003,(227[&rate=9.00556661959541E-001,branch_length=7.76396338626170E-002]:8.62129360008056E-002,(226[&rate=1.56456022300473E+000,branch_length=1.29289199422951E-001]:8.26361283649737E-002,((118[&rate=1.02563654800858E+000,branch_length=5.36952039741612E-002]:5.23530524320900E-002,139[&rate=1.39598547145386E+000,branch_length=7.30841005814597E-002]:5.23530524320900E-002)[&rate=1.19656747407410E+000,branch_length=1.67744358418105E-002,reltime=5.23530524320900E-002,reltime_stderr=2.50310733796774E-002,reltime_95%_CI={2.26873671166807E-002,1.20809174765016E-001},data_coverage=97%]:1.40187964366912E-002,(112[&rate=9.67052616316358E-001,branch_length=3.55544602011837E-002]:3.67657970221060E-002,140[&rate=8.97820832996518E-001,branch_length=3.30090985081681E-002]:3.67657970221060E-002)[&rate=9.31793960880094E-001,branch_length=2.75867403162349E-002,reltime=3.67657970221060E-002,reltime_stderr=1.90777925076005E-002,reltime_95%_CI={1.50472148160977E-002,8.98321614458916E-002},data_coverage=97%]:2.96060518466751E-002)[&rate=1.05591398614082E+000,branch_length=1.71736801945331E-002,reltime=6.63718488687811E-002,reltime_stderr=3.00621338379133E-002,reltime_95%_CI={2.98306754143522E-002,1.47674240058972E-001},data_coverage=97%]:1.62642794961926E-002)[&rate=1.28531747892507E+000,branch_length=4.59733337308731E-003,reltime=8.26361283649737E-002,reltime_stderr=3.27140575791733E-002,reltime_95%_CI={4.04751256399550E-002,1.65425146915289E-001},data_coverage=97%]:3.57680763583183E-003)[&rate=1.07587230579610E+000,branch_length=4.10234200948097E-002,reltime=8.62129360008056E-002,reltime_stderr=3.07383751740135E-002,reltime_95%_CI={4.49307162331560E-002,1.65425146915289E-001},data_coverage=97%]:3.81303802261684E-002)[&rate=1.00539055606701E+000,branch_length=1.71694003070811E-003,reltime=1.24343316226974E-001,reltime_stderr=4.03363166972507E-002,reltime_95%_CI={6.82894342905792E-002,1.88399884978032E-001},data_coverage=97%]:1.70773439271661E-003)[&rate=1.02508811672832E+000,branch_length=3.52581467037642E-003,reltime=1.26051050619691E-001,reltime_stderr=3.34096754382227E-002,reltime_95%_CI={7.65624018454104E-002,1.88399884978032E-001},data_coverage=97%]:3.43952350323740E-003)[&rate=8.56013788268858E-001,branch_length=1.13874047597772E-002,reltime=1.29490574122928E-001,reltime_stderr=2.53568169468007E-002,reltime_95%_CI={8.90011625465731E-002,1.88399884978032E-001},data_coverage=97%]:1.33028286644848E-002,((108[&rate=8.57625069641446E-001,branch_length=8.32383997967455E-002]:9.70568640577935E-002,(101[&rate=1.11277981384622E+000,branch_length=9.22463158390325E-002]:8.28971865693642E-002,(10[&rate=1.20125010802780E+000,branch_length=2.11215535808244E-002]:1.75829774662842E-002,111[&rate=1.10272236265121E+000,branch_length=1.93891424540640E-002]:1.75829774662842E-002)[&rate=1.15093238605030E+000,branch_length=7.51722385259962E-002,reltime=1.75829774662842E-002,reltime_stderr=8.13779966968617E-003,reltime_95%_CI={7.78946578421504E-003,3.96896404893848E-002},data_coverage=97%]:6.53142091030799E-002)[&rate=1.13169533280766E+000,branch_length=1.60244409277172E-002,reltime=8.28971865693642E-002,reltime_stderr=2.64320366197561E-002,reltime_95%_CI={4.59474266258431E-002,1.49561010175287E-001},data_coverage=97%]:1.41596774884293E-002)[&rate=9.85175257815618E-001,branch_length=3.53618687899193E-002,reltime=9.70568640577935E-002,reltime_stderr=2.42134819864215E-002,reltime_95%_CI={6.05801653340240E-002,1.55497014720796E-001},data_coverage=97%]:3.58939879066040E-002,(103[&rate=7.84241695012829E-001,branch_length=5.34255828914699E-002]:6.81238746055142E-002,104[&rate=8.12902949181301E-001,branch_length=5.53780985764797E-002]:6.81238746055142E-002)[&rate=7.98443727977665E-001,branch_length=5.17606934759504E-002,reltime=6.81238746055142E-002,reltime_stderr=2.19985193774699E-002,reltime_95%_CI={3.75051472721428E-002,1.23739343231825E-001},data_coverage=97%]:6.48269773588833E-002)[&rate=8.86908679381172E-001,branch_length=8.72944375218250E-003,reltime=1.32950851964397E-001,reltime_stderr=2.47451885613027E-002,reltime_95%_CI={9.30205747328378E-002,1.90021713893144E-001},data_coverage=97%]:9.84255082301522E-003)[&rate=8.71324313034826E-001,branch_length=1.04157694908932E-001,reltime=1.42793402787413E-001,reltime_stderr=2.40098172096415E-002,reltime_95%_CI={1.03288781574683E-001,1.97407265036478E-001},data_coverage=97%]:1.19539525468021E-001)[&rate=1.00000000000000E+000,branch_length=0.00000000000000E+000,reltime=2.62332928255434E-001,reltime_stderr=4.54970110240436E-002,reltime_95%_CI={1.87900925438681E-001,3.66249208652932E-001},data_coverage=97%]:0.00000000000000E+000,(4[&rate=1.00000000000000E+000,branch_length=5.26428282227805E-002]:0.00000000000000E+000,(109[&rate=1.00000000000000E+000,branch_length=1.23962076478222E-002]:0.00000000000000E+000,54[&rate=1.00000000000000E+000,branch_length=1.83793299427111E-002]:0.00000000000000E+000)[&rate=1.00000000000000E+000,branch_length=6.37235944196402E-002,reltime=0.00000000000000E+000,reltime_stderr=0.00000000000000E+000,reltime_95%_CI={0.00000000000000E+000,0.00000000000000E+000},data_coverage=97%]:0.00000000000000E+000)[&rate=1.00000000000000E+000,branch_length=1.54586059815196E-001,reltime=0.00000000000000E+000,reltime_stderr=0.00000000000000E+000,reltime_95%_CI={0.00000000000000E+000,0.00000000000000E+000},data_coverage=97%]:2.62332928255434E-001);
+End;
