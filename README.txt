@@ -2,7 +2,8 @@
 Description of the dataset 
 ==========================
 
-The archive contains the empircal and simulated data used in the Tao et al. 2020.
+The archive contains the empircal and simulated data used in the Tao et al. 2020. Relative efficiencies of simple and complex substitution models in estimating divergence times in phylogenomics. MBE.
+If you want to use the datasets or results provided here, please cite the Tao et al. (2020) article. 
 
 The Archive consists of the following parts:
 
